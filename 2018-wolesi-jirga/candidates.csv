@@ -17,7 +17,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1017-58,Alhaj Nazifullah Gull Afghan,98,M,Ind,
 1-1018-70,Zergull Etefaaq Sahak,421,M,Ind,
 1-1019-41,Ahmad Reza Noori,368,M,Ind,
-1-102-1165-105,Awal Khan Rustamkhel,222,M,Political party,
+1-102-1165-105,Awal Khan Rustamkhel,222,M,Political party,True
 1-102-1823-126,Mohammad Nasir Tarakhel,525,M,Ind,
 1-1020-8,Mohammad Asghar Wakili Popalzai,668,M,Ind,
 1-1021-2024,Abdul Hadi Arghandiwal,706,M,Political party,
@@ -31,7 +31,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1030-110,Omid Watanyar,399,M,Ind,
 1-1031-1011,Mawla Mohammad Paiman Akakhel,146,M,Ind,
 1-1032-1049,Eng. Azimullah Esmati,675,M,Ind,
-1-1033-16,Mufti Sayed Masood Hashemi,176,M,Ind,
+1-1033-16,Mufti Sayed Masood Hashemi,176,M,Ind,True
 1-1034-87,Alhaj Khwaja Masoom Sediqi,438,M,Ind,
 1-1035-6,Malek Sayed Aqa Hussainkhel,347,M,Ind,
 1-1036-68,Nawid Ahmad Kohi,406,M,Ind,
@@ -46,7 +46,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1046-55,Razia Arefi,31,F,Ind,
 1-1047-74,Zainab Mowahid,356,F,Ind,
 1-1048-1159,Nabila Sayedjanzada Hamid,77,F,Political party,
-1-1050-250,Arezo Safi,106,F,Ind,
+1-1050-250,Arezo Safi,106,F,Ind,True
 1-1050-42,Nasrullah Mesbah,57,M,Ind,
 1-1051-43,Dr. Sayed Makhdom Rahin,150,M,Ind,
 1-1052-88,Abdul Baqi Saranwal Hotak,630,M,Ind,
@@ -67,9 +67,9 @@ id,name,ballotNumber,gender,party,incumbent
 1-1067-124,Ferozuddin Amiri,800,M,Ind,
 1-1068-104,Noor Habib Gullbahari,269,M,Ind,
 1-1069-51,Jalalduddin Mahmoodi,459,M,Ind,
-1-1070-77,Sultan Mansoor Osmani,663,M,Ind,
+1-1070-77,Sultan Mansoor Osmani,663,M,Ind,True
 1-1071-36,Mohammad Asef Shah Jahan Ahmadzai,549,M,Ind,
-1-1072-78,Zuhra Noorzai,575,F,Ind,
+1-1072-78,Zuhra Noorzai,575,F,Ind,True
 1-1073-8,Alhaj Mohammad Qasim Jangalbagh,49,M,Ind,
 1-1074-92,Mumtaz Jahangir,213,M,Ind,
 1-1075-61,Alhaj Obaidullah Khoshiwal,501,M,Ind,
@@ -83,7 +83,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1085-3062,Razuddin Fakhri,622,M,Ind,
 1-1088-177,Abdul Baqi Samandar,391,M,Ind,
 1-1091-1104,Fatema Akbari,118,F,Ind,
-1-1093-76,Kulsom,515,F,Ind,
+1-1093-76,Kulsom,515,F,Ind,True
 1-1094-8,Haji Ihsan Sahebzadah,546,M,Ind,
 1-1095-3,Ahmad Shekeb Hadad,765,M,Ind,
 1-1096-16,Alhaj Shir Aqa Mohammadi,151,M,Ind,
@@ -119,7 +119,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1131-1024,Najibullah Haidari,370,M,Ind,
 1-1132-116,Alhaj Noor Rahman Oryakhel,628,M,Ind,
 1-1133-136,Eng. Abass Nawyan,772,M,Ind,
-1-1134-1214,Aqa Sayeed Malek Sayed Jaan,702,M,Ind,
+1-1134-1214,Aqa Sayeed Malek Sayed Jaan,702,M,Ind,True
 1-1136-52,Eng. Wahidullah Sabawon,238,M,Political party,
 1-1138-3053,Ahmadullah Aksir,153,M,Ind,
 1-1139-138,Mohammad Zaman Panahi,215,M,Ind,
@@ -128,7 +128,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1145-206,Mohammad Shoaib Durgi,560,M,Ind,
 1-1146-1087,Samira Lame,240,F,Ind,
 1-1147-213,Eng. Rohullah Zarif,144,M,Ind,
-1-1148-170,Mohammad Nayem Paiman,37,M,Ind,
+1-1148-170,Mohammad Nayem Paiman,37,M,Ind,True
 1-1149-80,Salim Khan Kunduzi,117,M,Ind,
 1-1150-39,Haji Ezatullah Neyazai,323,M,Ind,
 1-1151-60,Dr. Masooda Jalal,669,F,Ind,
@@ -168,10 +168,10 @@ id,name,ballotNumber,gender,party,incumbent
 1-1188-22,Alhaj Amirgull Shahin,45,M,Ind,
 1-1189-2027,Maari,80,F,Ind,
 1-1190-115,Abdul Ghafoor Rezwani,785,M,Ind,
-1-1191-1055,Somaya Bayat Kazemi,191,F,Ind,
+1-1191-1055,Somaya Bayat Kazemi,191,F,Ind,True
 1-1192-180,Dr. Maari Vida Safar,420,M,Ind,
 1-1193-3067,Malem Mohammad Ghazi sultanzoi,485,M,Ind,
-1-1194-127,Saranpoh. Yar Mohammad Hussainkhel,274,M,Ind,
+1-1194-127,Saranpoh. Yar Mohammad Hussainkhel,274,M,Ind,True
 1-1195-10,Ahmad Farid Mehrabi,371,M,Ind,
 1-1196-3,Mohammad Edris Faqirzadah Formoli,307,M,Ind,
 1-1197-1029,Alhaj Ahmad Arsalan Safi,456,M,Ind,
@@ -185,7 +185,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1205-3,Ekramuddin Wali,107,M,Ind,
 1-1206-66,Dr. Abdul Rashid Janbaz,195,M,Ind,
 1-1207-66,Alhaj Abdul Satar Behzad,216,M,Ind,
-1-1208-114,Deplom Eng. Noor Gull Mangal,472,M,Ind,
+1-1208-114,Deplom Eng. Noor Gull Mangal,472,M,Ind,True
 1-1209-19,Haji Hafizullah Jalili,354,M,Ind,
 1-1210-102,Alhaj Ghullam Sakhi Parsaaye,15,M,Ind,
 1-1211-78,Abdul Sabor Gardizi,172,M,Ind,
@@ -194,7 +194,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1214-133,Gen. Baz Mohammad Jawhari,231,M,Ind,
 1-1215-103,Abdul Bari Ramin Azimi,470,M,Political party,
 1-1216-47,Ahmad Zaki Zahed,134,M,Ind,
-1-1217-259,Narender Singh Khalesa,1,M,Ind,
+1-1217-259,Narender Singh Khalesa,1,M,Ind,True
 1-1218-1206,Dr. Mir Latifa Begnezhad,746,F,Ind,
 1-1219-1216,Ustad Mawlawi Shamsullah Haqani,280,M,Ind,
 1-1220-1048,Fawzia Naseryar Gulldaraye,324,F,Ind,
@@ -218,7 +218,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1239-59,Rahmatullah Salehi,92,M,Ind,
 1-1240-22,Alhaj Gull Zaman Rohani,489,M,Ind,
 1-1241-49,Mohammad Hamed Shirzad,328,M,Ind,
-1-1242-34,Kamela Aimaq,227,F,Ind,
+1-1242-34,Kamela Aimaq,227,F,Ind,True
 1-1243-35,Dr. Mohammad Qasem Elyasi,167,M,Ind,
 1-1244-82,Haji Gull Rahman Rahmani Mangal,661,M,Ind,
 1-1246-41,Mohammad Masood Afghan Ghorbandi,577,M,Ind,
@@ -230,10 +230,10 @@ id,name,ballotNumber,gender,party,incumbent
 1-1252-184,Gullabuddin Rasekh,581,M,Ind,
 1-1253-98,Dr. Fraidon Noorzad,733,M,Ind,
 1-1254-21,Dr. Abdul Basir Ranjbar,783,M,Ind,
-1-1255-3,Zeba Safa,640,F,Ind,
+1-1255-3,Zeba Safa,640,F,Ind,True
 1-1256-120,Sayed Karim Mansoor,682,M,Ind,
 1-1257-12,Haji Hamidullah Nawabi,413,M,Ind,
-1-1258-2032,Gheljai Noorzai,212,F,Political party,
+1-1258-2032,Gheljai Noorzai,212,F,Political party,True
 1-1259-105,Mohammad Allamazadah,559,M,Ind,
 1-1260-4,Abdul Manan Shiwae Sharq,615,M,Ind,
 1-1261-34,Eng. Mohammad Ibrahim Aslami,775,M,Ind,
@@ -251,7 +251,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1273-91,Mohammad Ajmal Hodman,462,M,Ind,
 1-1275-46,Abdul Basir Nabizadah,72,M,Ind,
 1-1276-40,Alhaj Qudratullah Sahak,59,M,Ind,
-1-1277-164,Eng. Fazelhaq Hemati,530,M,Ind,
+1-1277-164,Eng. Fazelhaq Hemati,530,M,Ind,True
 1-1278-114,Sayed Alem Rasa,666,M,Ind,
 1-1279-222,Mariam Yousufi,140,F,Ind,
 1-1280-1202,Jamila Noorzai Raufi,597,F,Political party,
@@ -282,7 +282,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1306-43,Zabiullah Almas,639,M,Ind,
 1-1307-26,Abdul Hamed Hamidi,73,M,Ind,
 1-1308-15,Shafiqullah Salim poya,250,M,Ind,
-1-1309-5,Masooma Tawasoli,523,F,Ind,
+1-1309-5,Masooma Tawasoli,523,F,Ind,True
 1-1310-37,Mohammad Lais Andar,55,M,Ind,
 1-1311-6,Sayed Akbar Shah Hashemi,182,M,Ind,
 1-1312-49,Kheyal Mohammad Khpelwak,545,M,Ind,
@@ -309,7 +309,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1334-24,Masood Shah,698,M,Ind,
 1-1335-19,Dr. Mohammad Asef Hekmat,621,M,Ind,
 1-1336-22,Ghullam Habib Fawad,64,M,Ind,
-1-1337-150,Jamaluddin Hekmatyar,659,M,Ind,
+1-1337-150,Jamaluddin Hekmatyar,659,M,Ind,True
 1-1338-40,Assadullah Azizi,609,M,Ind,
 1-1339-28,Deplom Eng. Ghullam Ali,70,M,Ind,
 1-1340-8,Aminullah Patyani,752,M,Ind,
@@ -337,7 +337,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1364-1092,Arian Khaibar,23,M,Ind,
 1-1365-1108,Abdul Khaibar Hotak,474,M,Ind,
 1-1366-1212,Sayed Abdullah Sadat,360,M,Ind,
-1-1368-178,Nasima Neyazai,19,F,Ind,
+1-1368-178,Nasima Neyazai,19,F,Ind,True
 1-1369-122,Nooria Munsef,709,F,Ind,
 1-1371-3059,Dr. Ali Asghar Paiman,784,M,Political party,
 1-1372-3070,Noor Habib Hasir,654,M,Ind,
@@ -371,7 +371,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1400-15,Shayesta Saleh,29,F,Ind,
 1-1401-56,Abdul Ghafar Baator,777,M,Ind,
 1-1402-42,Mohammad Edris Sediq,18,M,Ind,
-1-1403-18,Eng. Mutasel Khan Komaki,719,M,Ind,
+1-1403-18,Eng. Mutasel Khan Komaki,719,M,Ind,True
 1-1404-1012,Sherabuddin Sayar,673,M,Ind,
 1-1405-112,Abdul Ghafar Faizi Zadran,10,M,Ind,
 1-1406-13,Sayed Nasratullah Qubadi,802,M,Ind,
@@ -385,7 +385,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1414-130,Saheb Haq Meyakhel,311,M,Unlisted,
 1-1415-1169,Mohammad Qayoum Khostwal,27,M,Ind,
 1-1416-139,Assadullah Karimi,670,M,Ind,
-1-1417-1026,Mohammad Sediq Kuchi,6,M,Ind,
+1-1417-1026,Mohammad Sediq Kuchi,6,M,Ind,True
 1-1418-7,Sayed Naser Mosawi,468,M,Ind,
 1-1419-20,Mohammad Hanif Sayar,221,M,Ind,
 1-1420-6,Sayed Maroof Hashemi Jahed,748,M,Ind,
@@ -394,10 +394,10 @@ id,name,ballotNumber,gender,party,incumbent
 1-1423-99,Mohammad Haidari,262,M,Ind,
 1-1424-173,Shaima Rahimi,132,F,Ind,
 1-1425-48,Gen. Khalil Rahman Aamel,279,M,Ind,
-1-1426-218,Lft-Gen. Sayed Aman,103,M,Ind,
+1-1426-218,Lft-Gen. Sayed Aman,103,M,Ind,True
 1-1429-225,Aafyat Hashmatullah Omari,219,M,Ind,
 1-1430-80,Ezatullah Aatef,288,M,Ind,
-1-1432-81,Anwar Khan Oryakhel,220,M,Ind,
+1-1432-81,Anwar Khan Oryakhel,220,M,Ind,True
 1-1433-28,Abdul Karim Stanikzai Obaid,599,M,Ind,
 1-1434-31,Anisa Turk,551,F,Ind,
 1-1435-57,saifurahman Gharwal,389,M,Ind,
@@ -411,17 +411,17 @@ id,name,ballotNumber,gender,party,incumbent
 1-1445-26,Haji Sardar Agha Naseri,96,M,Ind,
 1-1446-91,Abdul Hadi Khalid,713,M,Ind,
 1-1448-107,Abdullah Wejdan,526,M,Ind,
-1-1449-128,Mohammad Younus Wayar,355,M,Ind,
+1-1449-128,Mohammad Younus Wayar,355,M,Ind,True
 1-1450-1083,Shah Gull Rezaye,337,F,Ind,
 1-1451-3060,Sayed Abdullah Saber,247,M,Ind,
-1-1452-3058,Sayed Hassan Hussaini,612,M,Ind,
+1-1452-3058,Sayed Hassan Hussaini,612,M,Ind,True
 1-1453-98,Malem Aziz Royesh,423,M,Ind,
 1-1454-123,Ahmad Behzad,42,M,Ind,
 1-1455-132,Gen. Babrak Saber,463,M,Ind,
 1-1456-54,Madaar Ali Karimi,757,M,Ind,
 1-1457-96,Kheyali Jaan Sarwan,91,M,Ind,
 1-1458-117,Abdul Qadir Sadeqyar,43,M,Ind,
-1-1459-121,Khwaja Mahbob Sediqi,105,M,Ind,
+1-1459-121,Khwaja Mahbob Sediqi,105,M,Ind,True
 1-1460-217,Mumtaz Yousufzai,641,F,Ind,
 1-1461-174,Mohammad Fahim Hashemi,433,M,Ind,
 1-1462-29,Haji Jalaluddin Salehi,582,M,Ind,
@@ -462,7 +462,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1501-165,Ahmad Parwiz Faizi,576,M,Ind,
 1-1503-1199,Eng. Karimullah Waziri,157,M,Ind,
 1-1504-179,Sayed Naser Shah Askarzadah,700,M,Ind,
-1-1505-191,Safia Sediqi,228,F,Ind,
+1-1505-191,Safia Sediqi,228,F,Ind,True
 1-1506-109,Alhaj Mirza Mohammad Safi,210,M,Ind,
 1-1507-10,Eng. Mohammad Amin Karim,558,M,Ind,
 1-1508-103,Ahmad Shekeb Farahi,115,M,Ind,
@@ -496,7 +496,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1536-84,Eraj Nezami,645,M,Ind,
 1-1537-14,Ahmad Jawid Jaihon,34,M,Ind,
 1-1538-13,Frozan Dawoodzai,48,F,Ind,
-1-1539-169,Baktash Seyawash,804,M,Ind,
+1-1539-169,Baktash Seyawash,804,M,Ind,True
 1-1540-61,Sardar Mohammad Sakhi,272,M,Ind,
 1-1541-11,Dr. Shamsulhaq Najibi,584,M,Ind,
 1-1542-4,Noorullah Dawoodzai,611,M,Ind,
@@ -569,7 +569,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1624-214,Dr. Abdul Ahad suhrabi,410,M,Ind,
 1-1627-1,Hedayatullah Sulaimankhel,497,M,Ind,
 1-1628-224,Abdul Habib Farzam Nejrabi,561,M,Ind,
-1-1629-87,Anisa Maqsoodi,439,F,Political party,
+1-1629-87,Anisa Maqsoodi,439,F,Political party,True
 1-1630-1022,Nazar Mohammad Isshaqzai,401,M,Ind,
 1-1631-1210,Laila Ali,131,F,Ind,
 1-1632-2,Mohammad Farooq Baraki,718,M,Ind,
@@ -593,7 +593,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1651-47,Mohammad Faazel Sayedkheli,223,M,Ind,
 1-1652-63,Alhaj Khan Lala Shirzai,5,M,Ind,
 1-1653-14,Sardar Aqa Behzad,786,M,Ind,
-1-1654-131,Sayed Mohammad Sayeedi,32,M,Ind,
+1-1654-131,Sayed Mohammad Sayeedi,32,M,Ind,True
 1-1655-1052,Sharifa Shirzad Allah Daad,12,F,Ind,
 1-1656-129,Mohammad Ajmal Zurmati,728,M,Ind,
 1-1657-76,Haji Hashem Mahdawi,518,M,Ind,
@@ -629,7 +629,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1690-120,Rahimullah Hanifi,193,M,Ind,
 1-1691-112,Haji Zarbat Kharoti,298,M,Ind,
 1-1692-1185,Ghullam Mujtaba Qais,649,M,Ind,
-1-1693-3045,Toorpekai Patman,205,F,Ind,
+1-1693-3045,Toorpekai Patman,205,F,Ind,True
 1-1694-138,Mohammad Reza Zaki,424,M,Ind,
 1-1695-167,Hawa Alam Nooristani,295,F,Ind,
 1-1697-157,Enayatullah Babakarkhel,534,M,Ind,
@@ -667,7 +667,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1734-128,Ustad Abdul Ghafar Rashidi,309,M,Ind,
 1-1735-1071,Haji Khalil Ahmad Ahmadi,533,M,Ind,
 1-1736-1062,Sayed Hamza Hashimi Balkhi,554,M,Ind,
-1-1737-251,Mawezuddin Osmani,166,M,Ind,
+1-1737-251,Mawezuddin Osmani,166,M,Ind,True
 1-1738-258,Abdul Ghafar Fayeq,39,M,Ind,
 1-1739-1044,Jamshid Sofizadah,742,M,Ind,
 1-1741-1070,sayed Shah Mahmood Malekzadah,4,M,Ind,
@@ -680,7 +680,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1752-137,Alhaj Mohammad Mosadeq Muqset,22,M,Ind,
 1-1753-105,Mohammad Akram Azimi,508,M,Ind,
 1-1754-131,Mohammad Aref Wardag,580,M,Ind,
-1-1756-3040,Reza Khan Aref Mukhles,116,M,Political party,
+1-1756-3040,Reza Khan Aref Mukhles,116,M,Political party,True
 1-1757-1160,Obaidullah Qalamyar,697,M,Ind,
 1-1759-156,Arash Shahirpor,327,M,Ind,
 1-1760-162,Dr. Faridullah sefat,380,M,Ind,
@@ -717,7 +717,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1800-1165,Mohammad Ibrahim Az-har,755,M,Ind,
 1-1801-187,Mohammad Elyas Shams,762,M,Political party,
 1-1802-3065,Shahzad Gull Musleh Zazai,596,M,Ind,
-1-1804-1173,Wazir Khan,681,M,Ind,
+1-1804-1173,Wazir Khan,681,M,Ind,True
 1-1806-1167,Shokria Jalalzai,6,F,Ind,
 1-1807-130,Rabea Stanikzai,543,F,Ind,
 1-1809-226,Etebar Khan Zadran,444,M,Ind,
@@ -734,7 +734,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1821-1064,Tella Mohammad Atmanzai,402,M,Ind,
 1-1822-141,Mohammad Yousuf Nawabi,159,M,Ind,
 1-1824-193,Mohammad Nayem Nazari,179,M,Ind,
-1-1825-107,Armaghan Samkanai,24,F,Ind,
+1-1825-107,Armaghan Samkanai,24,F,Ind,True
 1-1826-188,Sahel Khan,568,M,Ind,
 1-1827-177,Alhaj Mirwais Katawazai,452,M,Ind,
 1-1828-163,Khalilullah Shinwari,642,M,Ind,
@@ -761,7 +761,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1854-144,Eidi Mohammad Shareqi,108,M,Ind,
 1-1855-1186,Abdul Mujib Safi Babrak,104,M,Ind,
 1-1856-216,Alhaj Shahd Wali Zemawal,739,M,Ind,
-1-1857-201,Essa Mohammad Esmat Qane,717,M,Ind,
+1-1857-201,Essa Mohammad Esmat Qane,717,M,Ind,True
 1-1858-1179,Emal Burhan Wardak,343,M,Ind,
 1-1859-147,Khwaja Khalilullah Sediqyar,473,M,Ind,
 1-1860-204,Sayed Masood Ashna,476,M,Ind,
@@ -771,7 +771,7 @@ id,name,ballotNumber,gender,party,incumbent
 1-1864-127,Mirwais Stanikzai,722,M,Ind,
 1-1866-155,Mohammad Belal Hakimi,379,M,Ind,
 1-1867-256,Ahmad Reshad Mubarez,690,M,Ind,
-1-1868-162,Mohammad Qasem Fekri,487,M,Ind,
+1-1868-162,Mohammad Qasem Fekri,487,M,Ind,True
 1-1869-219,Zarghona Wali,184,F,Ind,
 1-1870-143,Abdul Wase Rasool,657,M,Ind,
 1-1871-179,Qaisullah Samkanai,655,M,Ind,
@@ -799,11 +799,11 @@ id,name,ballotNumber,gender,party,incumbent
 1-1900-133,Najibullah Mujahid,417,M,Ind,
 1-2002-1033,Leyaqat Ali Faramarz,177,M,Political party,
 1-2003-137,Eng. Mohammad Afzal Ahmadzai,685,M,Political party,
-1-2004-116,Mohammad Humayoun Noori,714,M,Political party,
+1-2004-116,Mohammad Humayoun Noori,714,M,Political party,True
 1-2005-1176,Ustad Jafari,13,M,Political party,
 1-2006-161,Abdul Maqsood Hassanzadah,734,M,Political party,
 1-2007-164,Alhaj Sharifullah Kamawal,634,M,Political party,
-1-2008-1207,Mohammad Younus Tughra,620,M,Political party,
+1-2008-1207,Mohammad Younus Tughra,620,M,Political party,True
 1-2009-1107,Phd. Mohammad Dawood Rawosh,125,M,Political party,
 10-1001-92,Uzra Karimi,34,F,Ind,
 10-1002-120,Isshaq Zahak,14,M,Ind,
@@ -812,7 +812,7 @@ id,name,ballotNumber,gender,party,incumbent
 10-1010-98,Masooma Bakhshi,39,F,Ind,
 10-1094-8,Sayed Mohammad Jamal Fakor Beheshti,35,M,Ind,
 10-1106-118,Haidar Ali Ahmadi,17,M,Ind,
-10-1130-166,Jaanbaz Sultani,36,M,Ind,
+10-1130-166,Jaanbaz Sultani,36,M,Ind,True
 10-1133-96,Shahr Bano Wakili,20,F,Ind,
 10-1134-70,Shogofa Zamani,24,F,Ind,
 10-1141-51,Dr. Mohammad Jawad Asghari,37,M,Political Party,
@@ -824,7 +824,7 @@ id,name,ballotNumber,gender,party,incumbent
 10-1230-11,Mohammad Hassan Hussainpor,32,M,Ind,
 10-1233-64,Sharifa Arman Waseq,10,F,Political Party,
 10-1241-22,Abdul Satar Ashna,18,M,Ind,
-10-1250-44,Mohammad Sarwar Jawadi,19,M,Political Party,
+10-1250-44,Mohammad Sarwar Jawadi,19,M,Political Party,True
 10-1253-34,Alhaj Sayed Assadullah Jafari,25,M,Ind,
 10-1265-87,Sima Naderi,9,F,Ind,
 10-1266-23,Alhaj Lft-Gen Muslim Aamed,31,M,Ind,
@@ -833,7 +833,7 @@ id,name,ballotNumber,gender,party,incumbent
 10-1297-134,Mohammad Rahim Aliyar,38,M,Political Party,
 10-1313-66,Fawad Kohmardi,3,M,Ind,
 10-1317-119,Gen Mohammad Nabi Tofan,23,M,Ind,
-10-1334-20,Sayed Mohammad Jawad Hussaini,2,M,Ind,
+10-1334-20,Sayed Mohammad Jawad Hussaini,2,M,Ind,True
 10-1381-69,Sefatullah Muradi,27,M,Ind,
 10-1417-47,Sayed Mohammad Nader Shafaq,21,M,Ind,
 10-1461-3,Alhaj Zaheeruddin Jaan Agha,1,M,Ind,
@@ -843,7 +843,7 @@ id,name,ballotNumber,gender,party,incumbent
 10-1577-125,Abdul Daneshyar,28,M,Ind,
 10-1653-102,Angeza Alizadah,6,F,Ind,
 10-1661-43,Aqela Hussaini,13,F,Ind,
-12-1001-76,Masoom Khairawi,13,M,Ind,
+12-1001-76,Masoom Khairawi,13,M,Ind,True
 12-1010-11,Dawlat Khan Zadran,15,M,Ind,
 12-1013-21,Najia Babakarkhel Urgonwal,27,F,Ind,
 12-1021-5,Mohammad Karim Katawazai,10,M,Ind,
@@ -870,7 +870,7 @@ id,name,ballotNumber,gender,party,incumbent
 12-1461-7,Mohammad Yasin Zadran,22,M,Ind,
 12-1505-16,Dayana Sahebzai,16,F,Ind,
 12-1525-1,Alhaj Mohammad Dawood Katawazai,14,M,Ind,
-12-1537-14,Mohmand Katawazai,21,M,Ind,
+12-1537-14,Mohmand Katawazai,21,M,Ind,True
 12-1553-25,Haji Abdul Qadir Kharoti,19,M,Ind,
 12-1601-33,Gulla Jaan Katawazai,20,M,Ind,
 12-1613-43,Mohammad Ismail Arian,26,M,Ind,
@@ -888,12 +888,12 @@ id,name,ballotNumber,gender,party,incumbent
 13-1077-1081,Mohammad Hanif Ahmadzai,40,M,Ind,
 13-1081-1071,Zarghona Hamid Totakhel,49,F,Ind,
 13-1082-61,Mohammad Aslam Bek Daneshmal,5,M,Ind,
-13-1093-56,Neyaz Mohammad Samkanai,6,M,Ind,
+13-1093-56,Neyaz Mohammad Samkanai,6,M,Ind,True
 13-1094-1088,Haji Khan Wazir Baaz Mangal,64,M,Ind,
 13-1118-59,Najibullah Ahmadzai,41,M,Ind,
 13-1133-66,Mirza jaan Mangal,32,M,Ind,
-13-1141-5,Sayed Hassan Gardizi,1,M,Ind,
-13-1142-2,Sayed Marjan Hamkar,26,M,Ind,
+13-1141-5,Sayed Hassan Gardizi,1,M,Ind,True
+13-1142-2,Sayed Marjan Hamkar,26,M,Ind,True
 13-1149-1093,Sharifa Zurmati,48,F,Ind,
 13-1161-1107,Gullalai Sulaimankhel,13,F,Ind,
 13-1169-1067,Abdul Rauf Khan Zadran,78,M,Ind,
@@ -913,7 +913,7 @@ id,name,ballotNumber,gender,party,incumbent
 13-1233-1084,Afzal Khan Zadaran,77,M,Ind,
 13-1249-17,Dr Samiullah Ahmadzai,62,M,Ind,
 13-1250-7,Abdul Karim Merzazadah,73,M,Ind,
-13-1265-32,Mohammad Nayem Rawan,10,M,Ind,
+13-1265-32,Mohammad Nayem Rawan,10,M,Ind,True
 13-1266-55,Haji Wali Khan Mangal,27,M,Ind,
 13-1273-64,Gull Badshah Majidi,12,M,Ind,
 13-1274-8,Hamdullah Hamdard,23,M,Ind,
@@ -925,12 +925,12 @@ id,name,ballotNumber,gender,party,incumbent
 13-1309-43,Mohammad Sediq Ahmadkhel,11,M,Ind,
 13-1312-1553-58,Wali Khan Hemat,25,M,Ind,
 13-1313-51,Zadran Saifi,35,M,Ind,
-13-1314-67,Sayed Jamaluddin Asefkhel,52,M,Ind,
+13-1314-67,Sayed Jamaluddin Asefkhel,52,M,Ind,True
 13-1325-68,Mohammad Nayem Ahmadzai,61,M,Ind,
 13-1326-1068,Jalat Jalal,66,M,Ind,
 13-1329-17,Shayesta jaan Ahadi,15,M,Ind,
 13-1330-40,Hamid Akram Samkanai,19,M,Ind,
-13-1397-3,Gen Ziauddin Deldar,43,M,Ind,
+13-1397-3,Gen Ziauddin Deldar,43,M,Ind,True
 13-1437-44,Haji Roshan Zadran,72,M,Ind,
 13-1453-1098,Mohammad Yousuf Shor,67,M,Ind,
 13-1461-1069,Faridullah Zazai,70,M,Ind,
@@ -944,13 +944,13 @@ id,name,ballotNumber,gender,party,incumbent
 13-1565-14,Rahima Neyazai,21,F,Ind,
 13-1569-1082,Kheyal Mohammad Ahmadzai,9,M,Ind,
 13-1577-1076,Dr Shafiqullah Sahar,74,M,Ind,
-13-1581-62,Dr Mohammad Osman Zurmati,51,M,Ind,
+13-1581-62,Dr Mohammad Osman Zurmati,51,M,Ind,True
 13-1585-58,Murad Khan Murad,42,M,Ind,
 13-1593-19,Ustad Naqibullah Mangal,33,M,Ind,
 13-1601-36,Alhaj Abdul Samad Musleh,24,M,Ind,
 13-1605-63,Rahmuddin Spinghar,20,M,Ind,
 13-1609-1090,Adam Khan Zurmati,47,M,Ind,
-13-1637-54,Eng. Delawar Totakhel,8,M,Ind,
+13-1637-54,Eng. Delawar Totakhel,8,M,Ind,True
 13-1681-1092,Mohammad Ayoub Pashton,34,M,Ind,
 13-1685-1078,Haji Awal Khan Paktyawal,31,M,Ind,
 13-1697-53,Sultan Mohammad Shpoon,29,M,Ind,
@@ -967,13 +967,13 @@ id,name,ballotNumber,gender,party,incumbent
 14-1141-42,Ihsanullah Zadran,15,M,Ind,
 14-1142-70,Alhaj Ajab Noor Mangal,27,M,Ind,
 14-1150-79,Mansoor Hamdarad,37,M,Ind,
-14-1161-99,Dr Janat Khan,30,M,Ind,
+14-1161-99,Dr Janat Khan,30,M,Ind,True
 14-1173-78,Dr Akbar Jaan Polad,34,M,Ind,
 14-1174-86,Mirwais Khan Jalali,4,M,Ind,
-14-1178-75,Keramat Khan Khpelwak,48,M,Ind,
-14-1185-16,Humyoun Humayoun,21,M,Ind,
+14-1178-75,Keramat Khan Khpelwak,48,M,Ind,True
+14-1185-16,Humyoun Humayoun,21,M,Ind,True
 14-1186-82,Abdul Wali Wahedzai,55,M,Ind,
-14-1193-96,Zinoorin Noori Afghan,49,M,Ind,
+14-1193-96,Zinoorin Noori Afghan,49,M,Ind,True
 14-1197-101,Mir Ahmad Gardizi,35,M,Ind,
 14-1225-98,Dr Dawood Khan Neyazai,43,M,Ind,
 14-1249-100,Farhad Akbari,33,M,Ind,
@@ -987,8 +987,8 @@ id,name,ballotNumber,gender,party,incumbent
 14-1305-18,Mohammad Qadim Afghan,24,M,Ind,
 14-1313-76,Sayed Karim Khan Khaksar,53,M,Ind,
 14-1314-74,Ustad Abdullah Matonwal,16,M,Ind,
-14-1329-63,Jawid Khan Naseh,29,M,Ind,
-14-1334-77,Qeyamuddin Sadi,14,M,Ind,
+14-1329-63,Jawid Khan Naseh,29,M,Ind,True
+14-1334-77,Qeyamuddin Sadi,14,M,Ind,True
 14-1346-106,Eng Badshah Subhan Pacha,10,M,Ind,
 14-1397-72,Ahmad shah Pacha Khosti,32,M,Ind,
 14-1437-104,Akhtar Zaman Rayesi,50,M,Ind,
@@ -1005,7 +1005,7 @@ id,name,ballotNumber,gender,party,incumbent
 14-1565-39,Kamal Khan Sabarai,31,M,Ind,
 14-1581-90,Eng Nasratullah Nasrat,6,M,Ind,
 14-1585-97,Mohammad Rasool,46,M,Ind,
-14-1593-47,Eng Helmand Helmand,11,M,Ind,
+14-1593-47,Eng Helmand Helmand,11,M,Ind,True
 14-1605-73,Najiba Rahmani,1,F,Ind,
 14-1609-107,Alhaj Abdul Maroof Trizaye,51,M,Ind,
 14-1637-2,Ghafar Khan,17,M,Ind,
@@ -1016,10 +1016,10 @@ id,name,ballotNumber,gender,party,incumbent
 15-1141-3,Haji Sakhi Mashwani,27,M,Ind,
 15-1142-4,Rafiullah Haidari,21,M,Ind,
 15-1173-1009,Alhaj Khanzad Gull Gharwal,28,M,Ind,
-15-1186-1028,Hunaryar Mangalyar,26,M,Ind,
+15-1186-1028,Hunaryar Mangalyar,26,M,Ind,True
 15-1193-1026,Sayed Ibrar Hashemi,1,M,Ind,
 15-1197-1,Haji Abdul Satar Ayoubi,14,M,Ind,
-15-1233-5,Wazhma Sapai,8,F,Ind,
+15-1233-5,Wazhma Sapai,8,F,Ind,True
 15-1249-1007,Minaa jalal,13,F,Ind,
 15-1265-1029,Mushtaq Ahmad Shaaghele,25,M,Ind,
 15-1273-6,Ustad Nematullah Karyab,19,M,Ind,
@@ -1029,7 +1029,7 @@ id,name,ballotNumber,gender,party,incumbent
 15-1306-1008,Haji Abdul Wali Khan Mamond,30,M,Ind,
 15-1325-1012,Qari Attaullah Safi,9,M,Ind,
 15-1329-1027,Noor Rahman Gharanai,17,M,Ind,
-15-1437-1006,Jawid Sapai,5,M,Ind,
+15-1437-1006,Jawid Sapai,5,M,Ind,True
 15-1441-1013,Gull Agha Hairan,2,M,Ind,
 15-1489-1022,Nasrullah Safi,31,M,Ind,
 15-1501-1553-1017,Mohammad Khalid Khan Zamani,16,M,Ind,
@@ -1049,10 +1049,10 @@ id,name,ballotNumber,gender,party,incumbent
 16-1173-49,Mohammad Rustam Khawar,9,M,Ind,
 16-1249-20,Mawlawi Ahmadullah Mowahed,6,M,Ind,
 16-1250-21,Drs. Zaheda Faizan,13,F,Ind,
-16-1265-1066,Sonik Sana Shormaach Nooristani,18,F,Ind,
+16-1265-1066,Sonik Sana Shormaach Nooristani,18,F,Ind,True
 16-1273-8,Gen Shams Rahman Zahed,4,M,Ind,
-16-1274-38,Col. Mohammad Osman Nooristani,8,M,Ind,
-16-1297-19,Ismail Atikan,1,M,Ind,
+16-1274-38,Col. Mohammad Osman Nooristani,8,M,Ind,True
+16-1297-19,Ismail Atikan,1,M,Ind,True
 16-1314-1068,Karima Nooristani,3,F,Ind,
 16-1545-9,Assadullah Nooristani,12,M,Ind,
 16-1593-31,Noorullah Memar,10,M,Ind,
@@ -1079,7 +1079,7 @@ id,name,ballotNumber,gender,party,incumbent
 17-1161-3,Mohammad Islam Yaftali,36,M,Ind,
 17-1169-15,Fazel Azim Zalmai Mujadedi,69,M,Ind,
 17-1170-18,Lal Mohammad Badakhsh,71,M,Ind,
-17-1173-34,Sayed Qamaruddin,28,M,Ind,
+17-1173-34,Sayed Qamaruddin,28,M,Ind,True
 17-1174-50,Salahuddin Nazari,22,M,Ind,
 17-1177-33,Basira Moheb,47,F,Ind,
 17-1181-48,Alhaj Abdul Rahman Ebrat,40,M,Ind,
@@ -1105,19 +1105,19 @@ id,name,ballotNumber,gender,party,incumbent
 17-1321-5,Mustafa Qul Mirzad,6,M,Ind,
 17-1325-1,Ustori Yazdan Parast,70,F,Ind,
 17-1326-65,Ziaulhaq Burhani,39,M,Ind,
-17-1329-75,Ziauddin Waseq,9,M,Political Party,
+17-1329-75,Ziauddin Waseq,9,M,Political Party,True
 17-1337-64,Sayed Abdul Qader Mudadedi,44,M,Ind,
 17-1338-59,Mohammad Nabi Qate,62,M,Ind,
 17-1382-11,Nazri Mohammad Niromand,12,M,Ind,
 17-1401-81,Mawlawi Abdul Tawab Qazaizadah,75,M,Ind,
 17-1405-44,Qurban Ali Hamzi,10,M,Ind,
 17-1429-53,Alhaj Safar Mohammad Mubarez,25,M,Unlisted,
-17-1433-28,Sayed Khairuddin Sayad,45,M,Ind,
+17-1433-28,Sayed Khairuddin Sayad,45,M,Ind,True
 17-1434-63,Abdul Jabar Forqani,32,M,Ind,
 17-1441-16,Safiullah Muslim,4,M,Ind,
 17-1445-46,Mawlawi Zabiullah Attiq,23,M,Ind,
 17-1461-78,Hujatullah Kheradmand,41,M,Ind,
-17-1477-79,Sadiqa Adib,13,F,Political Party,
+17-1477-79,Sadiqa Adib,13,F,Political Party,True
 17-1505-60,Amir Shah Daakhanda,20,M,Ind,
 17-1521-7,Haji Mohammad Yaqoob Esmati,61,M,Ind,
 17-1537-10,Nilofar Ibrahimi,68,F,Ind,
@@ -1130,10 +1130,10 @@ id,name,ballotNumber,gender,party,incumbent
 17-1581-26,Alhaj Baaz Mohammad Ahmadi,3,M,Ind,
 17-1585-6,Abdul Shokor Waqef Hakimi,52,M,Ind,
 17-1593-42,Abdul Naser Ansar,21,M,Ind,
-17-1601-80,Amanuddin Atef,35,M,Ind,
+17-1601-80,Amanuddin Atef,35,M,Ind,True
 17-1665-77,Alhaj Sayed Basir Ahmadi,66,M,Ind,
 17-1681-73,Musa Sultani,27,M,Ind,
-17-1697-54,Sayed Umran,15,M,Ind,
+17-1697-54,Sayed Umran,15,M,Ind,True
 18-1006-32,Mawlawi Ahmadullah Ahmadi,2,M,Ind,
 18-1009-79,Nazifa Yousufi Bek,20,F,Ind,
 18-1010-97,Dr Mohammad Rahman Hakimi,49,M,Ind,
@@ -1144,8 +1144,8 @@ id,name,ballotNumber,gender,party,incumbent
 18-1045-90,Shahnaz Mariam Mahtab,3,F,Political Party,
 18-1050-257,Rayes Abdul Baqi Malekzadah,4,M,Ind,
 18-1065-22,Gull Merza Qasemi,67,M,Ind,
-18-1074-86,Fatema Masood,6,F,Ind,
-18-1082-166,Mohammad Nader Noori,34,M,Ind,
+18-1074-86,Fatema Masood,6,F,Ind,True
+18-1082-166,Mohammad Nader Noori,34,M,Ind,True
 18-1094-24,Mohammad Aalem Saae,15,M,Ind,
 18-1126-69,Gen Najibullah Najib,19,M,Ind,
 18-1130-132,Amina Faizzad,14,F,Ind,
@@ -1156,14 +1156,14 @@ id,name,ballotNumber,gender,party,incumbent
 18-1158-151,Simin Hussaini,17,F,Ind,
 18-1162-34,Dr Manizgha Hamid Nawid,70,F,Ind,
 18-1169-150,Najibullah Khaleqyar,72,M,Ind,
-18-1174-98,Mohammad Namaaz Kochri,47,M,Ind,
+18-1174-98,Mohammad Namaaz Kochri,47,M,Ind,True
 18-1178-102,Abdul Wahed Faqirzada,43,M,Ind,
 18-1185-71,Razm Ara Hawash,50,F,Ind,
 18-1193-153,Rejauddin Amini,10,M,Political Party,
 18-1194-66,Eng Eidi Mohammad Hakimi,62,M,Ind,
 18-1197-164,Freshta Mirzadah,59,F,Ind,
 18-1198-36,Alhaj Khair Mohammad Temor,71,M,Political Party,
-18-1201-49,Eng Sayed Jawid Burhan,31,M,Ind,
+18-1201-49,Eng Sayed Jawid Burhan,31,M,Ind,True
 18-1221-112,Taaj Mohammad Ghafoori,56,M,Ind,
 18-1225-3,Dr Sayed Ashrafuddin Aini,52,M,Ind,
 18-1229-75,Hafizullah Habibi,26,M,Ind,
@@ -1208,9 +1208,9 @@ id,name,ballotNumber,gender,party,incumbent
 18-1653-95,Sayed Abdul Hanan Habibzadah,51,M,Ind,
 18-1689-96,Gen Wali Mohammad Tawhid,73,M,Political Party,
 19-1001-83,Ustad Najibullah Nejat,51,M,Ind,
-19-1002-48,Mohammad Nayem Makhdom,59,M,Political party,
+19-1002-48,Mohammad Nayem Makhdom,59,M,Political party,True
 19-1006-92,Bibi Kubra Shahidzada,34,F,Unlisted,
-19-1009-67,Emam Reza Naseri,86,M,Political party,
+19-1009-67,Emam Reza Naseri,86,M,Political party,True
 19-1010-14,Hazrat jaan Rahmatzai,8,M,Ind,
 19-1022-37,Khan Shirin Jafari,11,M,Political party,
 19-1033-85,Ziulhaq Aaqtash,27,M,Ind,
@@ -1258,10 +1258,10 @@ id,name,ballotNumber,gender,party,incumbent
 19-1289-88,Abdul Ghafoor Qayoumi,61,M,Ind,
 19-1290-81,Sayed Zabiullah Hashemi,87,M,Ind,
 19-1297-70,Basira Rasooli,79,F,Ind,
-19-1305-1,Shukria Paikan,35,F,Ind,
+19-1305-1,Shukria Paikan,35,F,Ind,True
 19-1313-66,Sayed Parwiz Sadat,38,M,Ind,
 19-1314-38,Jamiullah Pasoon Zakhel,43,M,Ind,
-19-1321-18,Sultan Sultani,29,M,Ind,
+19-1321-18,Sultan Sultani,29,M,Ind,True
 19-1329-49,Jawhar Shah Zakhelwal,10,M,Ind,
 19-1333-97,Dr Sayed Shah Waseq,71,M,Ind,
 19-1337-64,Abdul Rauf Hamid,63,M,Ind,
@@ -1343,7 +1343,7 @@ id,name,ballotNumber,gender,party,incumbent
 20-1185-1006,Ustad Mahbooba Rahmat,3,F,Ind,
 20-1193-2,Mohammad Reza Shahi,13,M,Political party,
 20-1198-2059,Mirza Hussain Bahr,21,M,Ind,
-20-1241-2033,Ziauddin Zia,25,M,Ind,
+20-1241-2033,Ziauddin Zia,25,M,Ind,True
 20-1265-2048,Attaullah Mohebi,9,M,Ind,
 20-1266-2049,Baaz Mohammad Wakilzada,10,M,Ind,
 20-1289-2032,Shamsulhaq Arianfar,30,M,Ind,
@@ -1367,9 +1367,9 @@ id,name,ballotNumber,gender,party,incumbent
 21-1021-62,Sardar Wali Mohammad Geraan,82,M,Ind,
 21-1022-82,Alhaj Munir Mohammad Mashwani,57,M,Ind,
 21-1034-304,Zemarai akramzada,41,M,Ind,
-21-1046-95,Humaira Akakhel,48,F,Ind,
+21-1046-95,Humaira Akakhel,48,F,Ind,True
 21-1049-81,Saifora Neyari,47,F,Ind,
-21-1050-93,Masood Fedaye,49,M,Ind,
+21-1050-93,Masood Fedaye,49,M,Ind,True
 21-1062-91,Hamed Hassani,16,M,Ind,
 21-1069-17,Nasrin Shahir,60,F,Ind,
 21-1073-8,Ahmad Jawid Karimi,7,M,Ind,
@@ -1396,7 +1396,7 @@ id,name,ballotNumber,gender,party,incumbent
 21-1198-51,Salman Ali Mohammadi,83,M,Ind,
 21-1201-37,Rayes Mohammad Ibrahimzada,35,M,Ind,
 21-1205-94,Bashir Ahmad Azizullah,44,M,Political party,
-21-1210-70,Ajaml Ziaye,25,M,Ind,
+21-1210-70,Ajaml Ziaye,25,M,Ind,True
 21-1221-76,Fazeluddin Hajizada,22,M,Ind,
 21-1222-96,Damulla Mohammad Rasool Arlati,72,M,Ind,
 21-1226-22,Abdul Rahman Samadi,1,M,Ind,
@@ -1404,7 +1404,7 @@ id,name,ballotNumber,gender,party,incumbent
 21-1233-40,Marya Amiri Mohmand,24,F,Ind,
 21-1234-11,Najla Habibi,73,F,Ind,
 21-1245-89,Marya Rahin,66,F,Ind,
-21-1249-63,Eng Dost Mohammad Paikan,84,M,Political party,
+21-1249-63,Eng Dost Mohammad Paikan,84,M,Political party,True
 21-1250-64,Fawzia Hamidi,15,F,Ind,
 21-1253-72,Mohammad Hashem Azimi,76,M,Ind,
 21-1257-28,Rayes Abdul Khaleq,53,M,Political party,
@@ -1414,19 +1414,19 @@ id,name,ballotNumber,gender,party,incumbent
 21-1305-20,Alhaj Mohammad Abdu,46,M,Political party,
 21-1306-3,Sayed Zaher Masror,36,M,Ind,
 21-1309-85,Shir Mohammad Abu Tariq Majlesi,67,M,Ind,
-21-1314-108,Ustad Sorya Bawar Omar,39,F,Ind,
+21-1314-108,Ustad Sorya Bawar Omar,39,F,Ind,True
 21-1318-68,Alhaj Gull Mohammad Airkan,61,M,Political party,
 21-1329-1,Ahmad Shah Ramazan,2,M,Ind,
 21-1338-60,Abdul Samad Nayazai,5,M,Ind,
-21-1349-19,Sayed Elyas jawid,3,M,Political party,
+21-1349-19,Sayed Elyas jawid,3,M,Political party,True
 21-1397-26,Farzana Rahimi,45,F,Ind,
 21-1401-92,Mohammad Nayem Bawjad Balkhi,11,M,Ind,
 21-1402-50,Qari Mohammad Ibrahim Taheri,17,M,Ind,
 21-1418-57,Shir Agha Pahlawanzada,62,M,Ind,
 21-1429-66,Shekeba Shekeb,51,F,Political party,
 21-1433-53,Abdullah Aminzadah,12,M,Ind,
-21-1461-23,Najia Naseri,23,F,Ind,
-21-1505-25,Najib Paikan,30,M,Ind,
+21-1461-23,Najia Naseri,23,F,Ind,True
+21-1505-25,Najib Paikan,30,M,Ind,True
 21-1529-71,Abdullah Bakhtyari,56,M,Ind,
 21-1537-6,Shah Aghasi Ibrahimkhel,18,M,Political party,
 21-1541-5,Danesh Ahmad Daneshwar,26,M,Ind,
@@ -1438,14 +1438,14 @@ id,name,ballotNumber,gender,party,incumbent
 21-1605-7,Sayed Ali Reza Mohmoodi,50,M,Ind,
 21-1609-24,Mahbooba Sadat,71,F,Ind,
 21-1613-61,Zabiullah Kakar,78,M,Ind,
-21-1633-74,Humayoun Ramazan,54,M,Ind,
+21-1633-74,Humayoun Ramazan,54,M,Ind,True
 21-1637-15,Gull Mohammad Pahlawan,69,M,Ind,
-21-1665-39,Mermen Robaba Naye,14,F,Political party,
+21-1665-39,Mermen Robaba Naye,14,F,Political party,True
 21-1685-14,Tora Baaz Stanikzai,55,M,Ind,
 21-1697-41,Mohammad Fahim Amiri,81,M,Ind,
 21-1705-18,Sonia Rajabi,13,F,Political party,
 22-1009-71,Mohammad Aref Sharifi,22,M,Ind,
-22-1034-86,Sayed Iqbal Ziaye,17,M,Ind,
+22-1034-86,Sayed Iqbal Ziaye,17,M,Ind,True
 22-1061-27,Mawlawi Abdul Rahim Urfani,29,M,Ind,
 22-1082-65,Haji Gull Nabi Kakar,30,M,Ind,
 22-1094-16,Sayed Mohammad Hassan Sharifi Balkhabi,20,M,Political party,
@@ -1470,7 +1470,7 @@ id,name,ballotNumber,gender,party,incumbent
 22-1326-51,Dr Assadullah Ayoubi,12,M,Ind,
 22-1329-127,Abdul Samad Azizi,11,M,Ind,
 22-1385-62,Sayed Abdul Wakil Sadat,25,M,Political party,
-22-1398-6,Feroz Hamidi,28,M,Ind,
+22-1398-6,Feroz Hamidi,28,M,Ind,True
 22-1417-91,Haj Sayed Hayatullah Aalimi,3,M,Ind,
 22-1525-33,Abdul Matin Matin,27,M,Ind,
 22-1541-21,Razia Sadat,6,F,Ind,
@@ -1480,8 +1480,8 @@ id,name,ballotNumber,gender,party,incumbent
 23-1001-3,Aziza Afzali,13,F,Ind,
 23-1002-69,Mawlawi Deen Mohammad Azimi,7,M,Ind,
 23-1093-57,Abdullah Hewad,22,M,Ind,
-23-1094-12,Atta Mohammad Dehqanpor,12,M,Ind,
-23-1118-11,Kamaluddin Saed,14,M,Ind,
+23-1094-12,Atta Mohammad Dehqanpor,12,M,Ind,True
+23-1118-11,Kamaluddin Saed,14,M,Ind,True
 23-1133-83,Abdul Zaher Tamim,18,M,Ind,
 23-1141-78,Amanullah Bek,3,M,Ind,
 23-1161-27,Haidar Ali Etemadi,27,M,Political party,
@@ -1500,7 +1500,7 @@ id,name,ballotNumber,gender,party,incumbent
 23-1505-84,Khudayar Waqef,4,M,Ind,
 23-1529-86,Sayed Aziz Sirat,21,M,Ind,
 23-1541-1,Fatema Kohistani,5,F,Ind,
-23-1581-4,Ruqia Nayel,28,F,Ind,
+23-1581-4,Ruqia Nayel,28,F,Ind,True
 23-1605-59,Keramuddin Rezazadah,19,M,Ind,
 23-1609-60,Gull Froz Ghafoori,30,F,Ind,
 23-1657-81,Humayoun Hakimi,25,M,Ind,
@@ -1517,12 +1517,12 @@ id,name,ballotNumber,gender,party,incumbent
 24-1149-131,Zahra Sorosh,32,F,Ind,
 24-1157-134,Subhan Danesh,30,M,Ind,
 24-1193-100,Alhaj Mohammad Zaher Qulagzada,23,M,Political party,
-24-1197-16,Mohammad Yousuf Yaqoobi,41,M,Ind,
+24-1197-16,Mohammad Yousuf Yaqoobi,41,M,Ind,True
 24-1225-211,Mohammad Mahmoodi,18,M,Ind,
 24-1233-115,Amena Aalemizadah,36,F,Political party,
 24-1245-138,Ghullam Haidar Salehi,19,M,Ind,
 24-1249-26,Mohammad Zaman Atrafi,28,M,Ind,
-24-1265-89,Rana Kamel,11,F,Ind,
+24-1265-89,Rana Kamel,11,F,Ind,True
 24-1273-93,Mohammad Ali Sadaqat,14,M,Ind,
 24-1285-13,Mukhtar Ansari,1,M,Ind,
 24-1289-34,Masooma Suraya Barbari Amiri,6,F,Ind,
@@ -1540,38 +1540,38 @@ id,name,ballotNumber,gender,party,incumbent
 24-1509-162,Akbar Mutahari,25,M,Ind,
 24-1541-19,Abdul Karim Surosh,2,M,Ind,
 24-1561-143,Aminullah Maali,7,M,Ind,
-24-1577-137,Mohammad Hussain Nasrat,39,M,Ind,
+24-1577-137,Mohammad Hussain Nasrat,39,M,Ind,True
 24-1581-41,Ali Akbar Jamshidi,3,M,Political party,
 24-1593-15,Ahmad Etemadi,22,M,Ind,
 24-1665-130,Zaman Ibrahimi,29,M,Ind,
 24-1697-30,Mohammad Hussain Amiri,37,M,Unlisted,
 24-2404-1329-5,Dr Mohammad Anwar Waezi,10,M,Ind,
 24-2405-1381-52,Ghullam Hassan Joya,20,M,Political party,
-25-1009-12,Rahmatullah Faiz,9,M,Ind,
-25-1021-18,Ahmad Shah Sahebzada,2,M,Ind,
-25-1061-22,Mohammad Zaher Salary,14,M,Ind,
-25-1093-23,Noorulhaq Akhondzadah,4,M,Political Party,
-25-1133-20,Sultani Komaki,15,F,Ind,
-25-1141-8,Nasibullah Watanwal,18,M,Ind,
-25-1161-29,Feroza Uruzgani,21,F,Ind,
-25-1169-2,Nematullah Akbari,17,M,Ind,
-25-1173-11,Hazrat Shah Barikzai,5,M,Ind,
-25-1273-19,Anosha Barikzai,24,F,Ind,
-25-1297-3,Dranil Noorzai,23,F,Political Party,
-25-1313-24,Qudratullah Rahimi,7,M,Ind,
-25-1389-17,Nazar Mohammad Nazari,20,M,Political Party,
-25-1397-27,Shir Mohammad Afghanzai,25,M,Ind,
-25-1433-25,Aminullah Khaleqi,8,M,Ind,
-25-1461-28,Shamshad Qezelbash,22,F,Ind,
-25-1505-13,Hajera Aryoubi,1,F,Ind,
-25-1553-6,Hayatullah Khoshhal,19,M,Ind,
-25-1577-14,Mirajaan Barikzai,16,M,Ind,
-25-1581-30,Alhaj Abdul Maalek Mutaqi,3,M,Ind,
-25-1585-31,Sona Nilofar,13,F,Ind,
-25-1593-33,Besmellah jaan Mohammad,6,M,Ind,
-25-1601-1,Bibi Gullalai Mohammadi,12,F,Ind,
-25-1605-15,Sharif Uruzgani,11,M,Ind,
-25-1637-41,Nargis Naderi,10,F,Ind,
+25-1009-12,Rahmatullah Faiz,9,,,
+25-1021-18,Ahmad Shah Sahebzada,2,,,
+25-1061-22,Mohammad Zaher Salary,14,,,
+25-1093-23,Noorulhaq Akhondzadah,4,,,
+25-1133-20,Sultani Komaki,15,,,True
+25-1141-8,Nasibullah Watanwal,18,,,
+25-1161-29,Feroza Uruzgani,21,,,True
+25-1169-2,Nematullah Akbari,17,,,
+25-1173-11,Hazrat Shah Barikzai,5,,,
+25-1273-19,Anosha Barikzai,24,,,
+25-1297-3,Dranil Noorzai,23,,,
+25-1313-24,Qudratullah Rahimi,7,,,
+25-1389-17,Nazar Mohammad Nazari,20,,,
+25-1397-27,Shir Mohammad Afghanzai,25,,,
+25-1433-25,Aminullah Khaleqi,8,,,
+25-1461-28,Shamshad Qezelbash,22,,,
+25-1505-13,Hajera Aryoubi,1,,,
+25-1553-6,Hayatullah Khoshhal,19,,,
+25-1577-14,Mirajaan Barikzai,16,,,
+25-1581-30,Alhaj Abdul Maalek Mutaqi,3,,,
+25-1585-31,Sona Nilofar,13,,,
+25-1593-33,Besmellah jaan Mohammad,6,,,
+25-1601-1,Bibi Gullalai Mohammadi,12,,,
+25-1605-15,Sharif Uruzgani,11,,,
+25-1637-41,Nargis Naderi,10,,,
 26-1001-22,Mohammad Ismail Zabuli,18,M,Ind,
 26-1009-19,Haji Enayatullah Hotak,11,M,Ind,
 26-1021-46,Mohammad Rasool Aziz,8,M,Ind,
@@ -1624,7 +1624,7 @@ id,name,ballotNumber,gender,party,incumbent
 27-1161-37,Ahmad Farid Zafar Haidari,107,M,Ind,
 27-1162-2039,Yasamin Naderi,88,F,Ind,
 27-1165-49,Haji Abdul Hadi Noori,57,M,Ind,
-27-1169-60,Mohammad Younus Fakor,69,M,Ind,
+27-1169-60,Mohammad Younus Fakor,69,M,Ind,True
 27-1173-10,haji Faizullah Abdali,85,M,Ind,
 27-1174-45,Sayed Jalal Agha,111,M,Ind,
 27-1177-21,Gull Ahmad Kamin,1,M,Ind,
@@ -1637,7 +1637,7 @@ id,name,ballotNumber,gender,party,incumbent
 27-1197-41,Dr Mahmood Khan Nasrat,95,M,Ind,
 27-1198-48,Haji Abdul Baqi Shah Wali,89,M,Ind,
 27-1201-1037,Abdul Rahim Ashna,76,M,Ind,
-27-1202-1039,Feroz Nabawi,73,M,Ind,
+27-1202-1039,Feroz Nabawi,73,M,Ind,True
 27-1206-82,Shmasia Fazli,79,F,Political Party,
 27-1212-3,Dr Hayatullah Shah Wali,39,M,Ind,
 27-1221-3,Khalid Pashton,13,M,Ind,
@@ -1693,7 +1693,7 @@ id,name,ballotNumber,gender,party,incumbent
 27-1553-5,Haji Saleh Mohammad Pahlawan,24,M,Ind,
 27-1561-34,Eng Mohammad Aref Noorzai,19,M,Ind,
 27-1569-18,Mawlawi Mohammad Manzor,33,M,Ind,
-27-1577-62,Parwin Naama,36,F,Ind,
+27-1577-62,Parwin Naama,36,F,Ind,True
 27-1581-44,Haji Sahle Mohammad Kakar,35,M,Ind,
 27-1593-1,Abdul Rauf Aziz,91,M,Ind,
 27-1601-29,Salahuddin Hotak,2,M,Ind,
@@ -1705,14 +1705,14 @@ id,name,ballotNumber,gender,party,incumbent
 27-1697-64,Daad Mohammad Etemadi,44,M,Ind,
 27-1809-6114,Ghullam Mohaiuddin Muslim,5,M,Ind,
 28-1093-1032,Shah Mahmood Paiwaston,20,M,Ind,
-28-1126-1035,Mohammad Omar Makhdom,8,M,Ind,
+28-1126-1035,Mohammad Omar Makhdom,8,M,Ind,True
 28-1141-1030,Haji Bator Dostum,6,M,Political Party,
 28-1181-10,Haji Mohammad Amin Khaksar,14,M,Ind,
 28-1185-12,Noor Ahmad Makhdomzadah,24,M,Ind,
 28-1225-1026,Dr Sayed Nawid Saraj,11,M,Ind,
 28-1233-1034,Anna Murad Shahi,21,M,Political Party,
 28-1234-3,Mohammad Ibrahim Sharwal,9,M,Ind,
-28-1249-9,Samir Safi,2,M,Ind,
+28-1249-9,Samir Safi,2,M,Ind,True
 28-1266-1022,haji Abdul Qader Folad,13,M,Ind,
 28-1274-1028,Amanullah Sharifi,19,M,Ind,
 28-1297-4,Saayra Shekeb Sadat,22,F,Political Party,
@@ -1724,7 +1724,7 @@ id,name,ballotNumber,gender,party,incumbent
 28-1361-7,Eng Abdul Ghafar Dehqan,30,M,Ind,
 28-1397-11,Mohammad Karim Jawzjani,12,M,Ind,
 28-1437-1025,Azizullah Ulfati,23,M,Ind,
-28-1441-3,Baktash Eshchi,15,M,Ind,
+28-1441-3,Baktash Eshchi,15,M,Ind,True
 28-1449-1027,Wahid Ahmad Mahdi,4,M,Ind,
 28-1461-6,Junaidullah Mubarez,7,M,Ind,
 28-1505-17,Halima Sadaf Karimi,28,F,Ind,
@@ -1755,7 +1755,7 @@ id,name,ballotNumber,gender,party,incumbent
 29-1174-2057,Saranwal Amena Mukhleszada,39,F,Ind,
 29-1186-2021,Ustad Sayed Shah Wali Parsa,3,M,Political Party,
 29-1193-2028,Eng Mohammad Nasim Rahmani,48,M,Political Party,
-29-1201-2066,Mermen Hajera Enayat Kamran,56,F,Ind,
+29-1201-2066,Mermen Hajera Enayat Kamran,56,F,Ind,True
 29-1221-2058,Bibi Nooria Toran,15,F,Ind,
 29-1222-2030,Eng Hashmatullah Rahmani,51,M,Political Party,
 29-1225-1,Alhaj Dr Fawzia Salimi,7,F,Ind,
@@ -1794,22 +1794,22 @@ id,name,ballotNumber,gender,party,incumbent
 29-1605-2008,Master Eng Amanullah Amin,20,M,Ind,
 29-1633-2022,Mohammad Anwar Bashliq,27,M,Ind,
 29-1649-2041,Shahr Bano Sadat Karezi,6,F,Ind,
-29-1685-2011,Ustad Sayed Mamon Guhrik,47,M,Ind,
+29-1685-2011,Ustad Sayed Mamon Guhrik,47,M,Ind,True
 3-1009-30,Shekeba Sayedkheli,22,F,Ind,
 3-1093-1,Alhaj Mir Rahman Rahmani,12,M,Ind,
 3-1157-24,Dr. Mohammad Shafi Mushfeq,9,M,Ind,
 3-1173-14,Hasiba Efat,19,F,Ind,
 3-1174-37,Qari Abdul Jalil Ayar,5,M,Ind,
-3-1177-15,Master Samea Azizi Sadat,24,F,Ind,
+3-1177-15,Master Samea Azizi Sadat,24,F,Ind,True
 3-1198-27,Malem Abdullah Khalozai,14,M,Ind,
-3-1205-28,Hamta Mubarez,26,M,Ind,
+3-1205-28,Hamta Mubarez,26,M,Ind,True
 3-1249-42,Alhaj Mohammadagull Mujahid,25,M,Ind,
 3-1250-29,Bibi haji Shafiqa Noori,21,F,Ind,
 3-1265-33,Mohammad Anwar Neyazai,13,M,Ind,
 3-1273-3,Palwasha Ismailzadah,3,F,Ind,
 3-1297-26,Nargis Sayed,15,F,Ind,
 3-1305-23,Dr. Abdul Satar Amiri,8,M,Ind,
-3-1306-4,Zakia Sangin,7,F,Ind,
+3-1306-4,Zakia Sangin,7,F,Ind,True
 3-1309-32,Abdul Satar Khawasi,11,M,Ind,
 3-1313-22,Abdul Motaal Mubasher,28,M,Ind,
 3-1325-35,Farzana Farhat,20,F,Ind,
@@ -1850,7 +1850,7 @@ id,name,ballotNumber,gender,party,incumbent
 30-1161-63,Sanator Abdul Wahed Karezwal,77,M,Ind,
 30-1169-30,Eng Wahidullah Mayar,73,M,Ind,
 30-1170-42,Eng Mohammad Sulaiman Samim,8,M,Ind,
-30-1174-29,Nasima Neyazi,21,F,Ind,
+30-1174-29,Nasima Neyazi,21,F,Ind,True
 30-1177-51,Mohammad Asef,71,M,Ind,
 30-1182-105,Rashed Ahmad Begonah,91,M,Ind,
 30-1185-14,Razia Baloch,25,F,Ind,
@@ -1867,7 +1867,7 @@ id,name,ballotNumber,gender,party,incumbent
 30-1226-69,Eng Dawood Shah Baridost,83,M,Ind,
 30-1233-45,Masood Khan Noorzai,6,M,Ind,
 30-1234-8,Haji Wali Jaan Saberi,9,M,Ind,
-30-1241-95,Sayed Musa Helmandi,1,M,Ind,
+30-1241-95,Sayed Musa Helmandi,1,M,Ind,True
 30-1242-104,Ali Mohammad Muzafari,53,M,Ind,
 30-1245-87,Noor Ahmad Isshaqzai,78,M,Ind,
 30-1246-10,Alhaj Nawid Ahmad Watanwal,62,M,Ind,
@@ -1898,7 +1898,7 @@ id,name,ballotNumber,gender,party,incumbent
 30-1477-9,Aqa Gull Bawar,32,M,Ind,
 30-1505-28,Najiba Fayez Helmandi,33,F,Ind,
 30-1533-24,Bashir Ahmad Shaker,42,M,Ind,
-30-1541-67,Mirwais Popal,5,M,Ind,
+30-1541-67,Mirwais Popal,5,M,Ind,True
 30-1545-5,Abdul Rashid Azizi,4,M,Ind,
 30-1553-79,Haji Noor Ahmad Naseri,38,M,Ind,
 30-1561-6,Haji Mirwali Hemat,90,M,Ind,
@@ -1915,7 +1915,7 @@ id,name,ballotNumber,gender,party,incumbent
 31-1033-28,Abdul Qader Berget Surkhabi,21,M,Ind,
 31-1094-30,Halima Rahpaima,23,F,Ind,
 31-1141-52,Mawlawi Abdul Baset Saarem,31,M,Political Party,
-31-1142-2,Ziauddin Akazai,10,M,Ind,
+31-1142-2,Ziauddin Akazai,10,M,Ind,True
 31-1169-47,Mohammad Asef Aimaq,7,M,Ind,
 31-1173-49,Muslima Shirzad,5,F,Ind,
 31-1177-27,Sayed Naqibullah Sediqi,11,M,Ind,
@@ -1933,7 +1933,7 @@ id,name,ballotNumber,gender,party,incumbent
 31-1338-19,Abdul Ghafoor Mahmoodi,28,M,Ind,
 31-1382-54,Alhaj Abdul Hamid Khalil,20,M,Ind,
 31-1441-35,Ustad Farida Bekzad,12,F,Ind,
-31-1441-70,Mubark Khan Azizyar,30,M,Ind,
+31-1441-70,Mubark Khan Azizyar,30,M,Ind,True
 31-1505-25,Haji Nasrullah Amin,32,M,Ind,
 31-1545-18,Ustad Nadia Hotak,22,F,Ind,
 31-1553-11,Mohammad Haidar Sharifi,19,M,Ind,
@@ -1953,7 +1953,7 @@ id,name,ballotNumber,gender,party,incumbent
 32-1029-28,Ali Jumma Mohebi,114,M,Ind,
 32-1030-18,Mohammad Nasim Seyah Khan,149,M,Ind,
 32-1033-1056,Gullabuddin Arab,147,M,Ind,
-32-1034-1065,Mohammad Naser Attaye,100,M,Ind,
+32-1034-1065,Mohammad Naser Attaye,100,M,Ind,True
 32-1037-1098,Mohammad Aref Kushki Jamshidi,35,M,Ind,
 32-1045-1113,Basir Ahmad Daneshyar Bakhtyar,11,M,Ind,
 32-1050-1116,Sayed Khalil Qataali,54,M,Ind,
@@ -1975,7 +1975,7 @@ id,name,ballotNumber,gender,party,incumbent
 32-1109-1150,Mumtaz Sarwaryar,43,F,Ind,
 32-1110-1088,Hajia Susan Behbodzadah,90,F,Ind,
 32-1117-39,Mohammad Omar Roshan,158,M,Ind,
-32-1125-1168,Sayed Yaqoob Cheshti Mawdodi,24,M,Ind,
+32-1125-1168,Sayed Yaqoob Cheshti Mawdodi,24,M,Ind,True
 32-1126-1136,Mohammad Zaher Shirzai,46,M,Ind,
 32-1129-1142,Edris Yousuf,9,M,Ind,
 32-1130-1152,Abdul Shokor Ayoubi,71,M,Ind,
@@ -1991,7 +1991,7 @@ id,name,ballotNumber,gender,party,incumbent
 32-1165-1135,Amanullah Hussaini,22,M,Political Party,
 32-1169-1047,Haji Ghullam Yahya Akbari Alokozai,52,M,Ind,
 32-1170-42,Mawlawi Gull Ahmad Amini,88,M,Ind,
-32-1173-2,Mohammad Sadeq Yousufi,76,M,Political Party,
+32-1173-2,Mohammad Sadeq Yousufi,76,M,Political Party,True
 32-1174-35,Zamira Nabizadah,138,F,Ind,
 32-1177-1063,Abdul Hadi Jamshidi,27,M,Ind,
 32-1181-1046,Ustad Shirin Shahabi,73,F,Ind,
@@ -2002,7 +2002,7 @@ id,name,ballotNumber,gender,party,incumbent
 32-1201-3,Ghullam Mohammad Karokhi,150,M,Political Party,
 32-1205-21,Abdul Habib Noorzai,50,M,Ind,
 32-1209-1125,Gen Ahmad Khan Rahimi Ghori,118,M,Political Party,
-32-1221-1058,Mohammad Baqer Etemadi,70,M,Political Party,
+32-1221-1058,Mohammad Baqer Etemadi,70,M,Political Party,True
 32-1222-1061,Jumma Gull Rahmani,97,M,Ind,
 32-1225-1123,Masooda Karokhi,44,F,Ind,
 32-1226-1106,Saifullah Sangin Noorzai,55,M,Ind,
@@ -2024,7 +2024,7 @@ id,name,ballotNumber,gender,party,incumbent
 32-1270-1051,Abdul Wahed Yousufzai Tawakali,152,M,Ind,
 32-1281-3,Mohammad Rafiq Shahir,42,M,Ind,
 32-1282-1114,Amir Hamza Ramesh,82,M,Ind,
-32-1285-1050,Mohammad Jawad Bayat,129,M,Ind,
+32-1285-1050,Mohammad Jawad Bayat,129,M,Ind,True
 32-1289-1111,Gull Aqa Jamshidi,95,M,Ind,
 32-1290-1234,Mina Naderi,67,F,Ind,
 32-1294-1109,Mohammad Azam Azami Barnabadi,75,M,Ind,
@@ -2035,7 +2035,7 @@ id,name,ballotNumber,gender,party,incumbent
 32-1313-1124,Sayed Sharif Yalani,26,M,Ind,
 32-1314-24,Freshta Mujadidi,37,F,Ind,
 32-1317-1128,Ustad Hamidullah hanif,142,M,Ind,
-32-1318-1055,Jawid Sultani,93,M,Ind,
+32-1318-1055,Jawid Sultani,93,M,Ind,True
 32-1321-43,Mohammad Tariq Nabi,58,M,Ind,
 32-1322-1115,Mohammad Mahdi Afzali,141,M,Ind,
 32-1329-4,Mohammad Reza Khoshak Watandost,144,M,Ind,
@@ -2047,13 +2047,13 @@ id,name,ballotNumber,gender,party,incumbent
 32-1345-1053,Ihsanullah Ahmad Karokhi,146,M,Ind,
 32-1349-1122,Kubra Jafari,69,F,Ind,
 32-1381-1049,Dr Mohammad Saleh Saljoqi,160,M,Ind,
-32-1382-34,Zubair Osmani,94,M,Ind,
+32-1382-34,Zubair Osmani,94,M,Ind,True
 32-1385-1,Qazi Nazir Ahmad Hanifi,105,M,Ind,
 32-1390-27,Ustad Parwana Rasooli Daneshyar,29,F,Ind,
 32-1397-1062,Haji Ahmad Wahid Obaidi,85,M,Ind,
 32-1401-1140,Dr Mohammad Omid Ghori,136,M,Ind,
 32-1402-1155,Noor Ahmad Barzin Khatibi,122,M,Ind,
-32-1405-1092,Omar Nasir Mujadidi,51,M,Ind,
+32-1405-1092,Omar Nasir Mujadidi,51,M,Ind,True
 32-1409-1076,Hajia Ustad Saadat Fatahi,20,F,Ind,
 32-1413-1120,Abdul Hakim Mohammadi,106,M,Political Party,
 32-1417-1083,Aqela Jamshidi,119,F,Ind,
@@ -2068,7 +2068,7 @@ id,name,ballotNumber,gender,party,incumbent
 32-1485-1146,Abdul Rahman Mawlawizadah,5,M,Ind,
 32-1497-1180,Assadullah Mubarez,99,M,Political Party,
 32-1505-19,Ahmad Shafiq Behrozyan,123,M,Ind,
-32-1509-1139,Arezo Azizi,78,F,Ind,
+32-1509-1139,Arezo Azizi,78,F,Ind,True
 32-1517-32,Basira Mohammadi,127,F,Ind,
 32-1537-1073,Wazir Ahmad Arsali,41,M,Ind,
 32-1541-8,Ghullam Jelani Daqiq,64,M,Ind,
@@ -2102,15 +2102,15 @@ id,name,ballotNumber,gender,party,incumbent
 32-320108-1533-1078,Reza Gull Khalil Isshaqzai,148,F,Ind,
 32-3209-1118-1154,Haji Faiz Ahmad Noorzai,16,M,Ind,
 33-1001-42,Abdul Rezaq Farahwal,9,M,Ind,
-33-1010-5,Ustad Humaira Ayoubi,33,F,Ind,
+33-1010-5,Ustad Humaira Ayoubi,33,F,Ind,True
 33-1021-12,Gen Abdul Karim Farahi,13,M,Ind,
 33-1029-19,Nasir Ahmad Qaderi,35,M,Ind,
-33-1033-29,Musa Khan Nasrat,23,M,Ind,
+33-1033-29,Musa Khan Nasrat,23,M,Ind,True
 33-1070-27,Ahmadullah Noorzai,29,M,Ind,
 33-1081-13,Mohammad Sarwar Osmani Farahi,24,M,Ind,
 33-1082-37,Abdul Khaleq Amini,27,M,Ind,
 33-1093-9,Abdul Same Samim,1,M,Ind,
-33-1125-3,Mohammad Nazir Khedmat,5,M,Ind,
+33-1125-3,Mohammad Nazir Khedmat,5,M,Ind,True
 33-1141-36,Ustad Hamed Elham,10,M,Ind,
 33-1142-15,Belqis Roshan,39,F,Ind,
 33-1149-28,Eng Shah Wali Hamidi,18,M,Ind,
@@ -2159,7 +2159,7 @@ id,name,ballotNumber,gender,party,incumbent
 35-1077-26,Shir Ahmad Sawabdar,15,M,Ind,
 35-1077-87,Rahima Taraki,8,F,Ind,
 35-1078-18,Khan Wali Ahmadzai,32,M,Ind,
-35-1137-95,Dr Mansoor Mullakhel,13,M,Ind,
+35-1137-95,Dr Mansoor Mullakhel,13,M,Ind,True
 35-1141-25,Amanullah Ahmadzai,39,M,Ind,
 35-1169-73,Mohammad Khan Katawazai,4,M,Ind,
 35-1185-61,Habib Rahman Afghan,26,M,Ind,
@@ -2182,7 +2182,7 @@ id,name,ballotNumber,gender,party,incumbent
 35-1488-3068,Qazi Najibullah Jame,2,M,Ind,
 35-1494-157,Mirwais Salam,7,M,Ind,
 35-1509-83,Mohammad Nabi Kuchi,16,M,Ind,
-35-1549-159,Kako Jaan Neyazai,617,M,Ind,
+35-1549-159,Kako Jaan Neyazai,617,M,Ind,True
 35-1569-1194,Karima Shamrez Hotak,14,F,Ind,
 35-1580-178,Afridi Kuchi,29,M,Ind,
 35-1585-85,Hamida Ahmadzai,31,F,Ind,
@@ -2247,7 +2247,7 @@ id,name,ballotNumber,gender,party,incumbent
 5-1094-5,Alhaj Mohammad Hashem Hussainkhel,3,M,Ind,
 5-1133-19,Lailuma Yousufzai,23,F,Ind,
 5-1141-29,Sayed Farhad Akbari,7,M,Ind,
-5-1142-21,Mohammad Ismail Sediqi,4,M,Ind,
+5-1142-21,Mohammad Ismail Sediqi,4,M,Ind,True
 5-1149-33,Sanaullah Azimi Ahmadzai,18,M,Ind,
 5-1161-17,Hamid Azizi,16,M,Ind,
 5-1173-32,Samiullah Noori,15,M,Ind,
@@ -2276,7 +2276,7 @@ id,name,ballotNumber,gender,party,incumbent
 5-1665-2,Abdul Rahman Watanwal,17,M,Ind,
 6-1001-96,Abdul Basir Sabawoon,81,M,Ind,
 6-1002-203,Zubair Khan Shinwari,103,M,Ind,
-6-1005-232,Esmat Sangin,67,M,Ind,
+6-1005-232,Esmat Sangin,67,M,Ind,True
 6-1009-20,Haji Mohammad Anwar Shinwari,33,M,Ind,
 6-1010-157,Sayed Hashem Folad,44,M,Ind,
 6-1017-183,Dr. Mohammad Sediq Momand,6,M,Ind,
@@ -2288,11 +2288,11 @@ id,name,ballotNumber,gender,party,incumbent
 6-1034-57,Alhaj Hazrat Ali,82,M,Ind,
 6-1049-91,Haji Pirbakhsh Gerdiwal,14,M,Ind,
 6-1050-159,Haji Aziz Rahman Mohmand,5,M,Ind,
-6-1062-123,Nadia Nadim,66,F,Ind,
+6-1062-123,Nadia Nadim,66,F,Ind,True
 6-1069-124,Noor Khetab Omar Khetab,104,M,Ind,
 6-1070-161,Muqadasa Ahmadzai,31,F,Ind,
-6-1073-174,Mohammad Sediq Patman,94,M,Ind,
-6-1077-171,Eng. Mohammad Nader Omar,63,M,Ind,
+6-1073-174,Mohammad Sediq Patman,94,M,Ind,True
+6-1077-171,Eng. Mohammad Nader Omar,63,M,Ind,True
 6-1081-139,Sayed Abdul Ghafar Pacha,18,M,Ind,
 6-1082-3,Noor Alam Halim,27,M,Ind,
 6-1093-99,Ibrarullah Murad,56,M,Ind,
@@ -2306,7 +2306,7 @@ id,name,ballotNumber,gender,party,incumbent
 6-1141-1,Mohammad Edris Gheljai,70,M,Ind,
 6-1149-117,Rayes Khan Amarkhel,4,M,Ind,
 6-1150-175,Najia Munira Akhondzadah,113,F,Ind,
-6-1154-218,Ayoub Khan,35,M,Political Party,
+6-1154-218,Ayoub Khan,35,M,Political Party,True
 6-1157-37,Mohammad Sadeq Jabarkhel,46,M,Ind,
 6-1158-133,Dr. Esmatullah Shinwari,96,M,Ind,
 6-1161-10,Mohebullah,137,M,Ind,
@@ -2322,7 +2322,7 @@ id,name,ballotNumber,gender,party,incumbent
 6-1193-68,Haji Janat Gull Akhondzadah,98,M,Ind,
 6-1194-194,Mohammad Zafar Mubarez,37,M,Ind,
 6-1197-238,Enayatullah Silab,136,M,Ind,
-6-1198-118,Sayed Ekraam,52,M,Ind,
+6-1198-118,Sayed Ekraam,52,M,Ind,True
 6-1201-89,Abdul Naser Momand,55,M,Ind,
 6-1205-95,Hamidullah Afghan,29,M,Ind,
 6-1206-176,Maiwand Hemat Shinwari,79,M,Ind,
@@ -2339,7 +2339,7 @@ id,name,ballotNumber,gender,party,incumbent
 6-1249-94,Subhanullah Fahimi,101,M,Political Party,
 6-1254-135,Dr. Mohammad Shoaib Yousufzai,51,M,Ind,
 6-1261-172,Neyaz Wali Muslim,20,M,Ind,
-6-1262-195,Mohammad Nader Memaar,129,M,Political Party,
+6-1262-195,Mohammad Nader Memaar,129,M,Political Party,True
 6-1265-145,Amir Mohammad Yar,73,M,Ind,
 6-1273-140,Sayed Jamal Pacha,106,M,Ind,
 6-1274-12,Abdul Karim Karimi,2,M,Ind,
@@ -2375,10 +2375,10 @@ id,name,ballotNumber,gender,party,incumbent
 6-1418-184,Gullalai Naseri,83,F,Ind,
 6-1426-207,Khan Akbar Haqmal,64,M,Ind,
 6-1429-62,Mir Aatef Stor,60,M,Ind,
-6-1433-173,Dewa Neyazai,38,F,Ind,
+6-1433-173,Dewa Neyazai,38,F,Ind,True
 6-1434-197,Haji Delawar Jarnailzadah,105,M,Ind,
 6-1437-5,Alhaj Abdul Zaher Qadir,47,M,Ind,
-6-1441-9,Feraidon Khan Momand,7,M,Ind,
+6-1441-9,Feraidon Khan Momand,7,M,Ind,True
 6-1461-36,Hedayatullah Shinwari,121,M,Ind,
 6-1469-185,Mohammad Taher Shirzad,28,M,Ind,
 6-1477-191,Naqibullah Maiwand Jahani,76,M,Ind,
@@ -2424,11 +2424,11 @@ id,name,ballotNumber,gender,party,incumbent
 7-1226-40,Saleh Mohammad Mohammadi,33,M,Ind,
 7-1229-19,Ghullam Yahya Ibrahimi,7,M,Ind,
 7-1233-7,Mohammad Anwar Sadaqat,16,M,Ind,
-7-1250-24,Merajuddin Majidzoi,2,M,Ind,
+7-1250-24,Merajuddin Majidzoi,2,M,Ind,True
 7-1254-18,Dr. Hafizullah Malang,15,M,Political Party,
 7-1265-8,Shirzad Safi,22,M,Ind,
-7-1266-60,Ghairat Rustamkhel,20,M,Ind,
-7-1273-27,Ghawarjaan,28,M,Ind,
+7-1266-60,Ghairat Rustamkhel,20,M,Ind,True
+7-1273-27,Ghawarjaan,28,M,Ind,True
 7-1282-52,Assadullah Noori,29,M,Political Party,
 7-1297-6,Gen. Abdul Munir Tarakhel,23,M,Ind,
 7-1298-16,Dr. Abdul Rasool Wafa,14,M,Ind,
@@ -2457,7 +2457,7 @@ id,name,ballotNumber,gender,party,incumbent
 8-801-1505-2109,Dr. Sadruddin Fakhri,10,M,Ind,
 9-1001-87,Rahela Faqiri,81,F,Ind,
 9-1005-104,Manizha Shirzad Ariaye,63,F,Ind,
-9-1006-139,Mohammad Jaan Qaderi,34,M,Ind,
+9-1006-139,Mohammad Jaan Qaderi,34,M,Ind,True
 9-1009-48,Dr. Mohammad Nasim Mudaber,86,M,Ind,
 9-1010-76,Najibullah Kamini,75,M,Ind,
 9-1022-128,Ahmad Munir,60,M,Ind,
@@ -2470,13 +2470,13 @@ id,name,ballotNumber,gender,party,incumbent
 9-1061-152,Abdul Wahed known to Arman,19,M,Ind,
 9-1070-58,Sayedullah Sadat,33,M,Ind,
 9-1074-86,Abdul Rahman Khenjan,67,M,Ind,
-9-1081-88,Mohammad Younus Aimaq,7,M,Ind,
+9-1081-88,Mohammad Younus Aimaq,7,M,Ind,True
 9-1082-26,Khalilullah Mehr Ayen,29,M,Ind,
 9-1094-144,Mawlawi Sayed Safiullah Rashed,70,M,Ind,
 9-1125-99,Noor Ali Faqirzada,21,M,Ind,
-9-1133-154,Freba Safi,6,F,Ind,
+9-1133-154,Freba Safi,6,F,Ind,True
 9-1134-63,Ustad Mahboobullah Mahboob,59,M,Ind,
-9-1141-226,Ferozuddin Aimaq,66,M,Ind,
+9-1141-226,Ferozuddin Aimaq,66,M,Ind,True
 9-1149-155,Naqibullah Qane,73,M,Ind,
 9-1150-137,Arash Rastin,32,M,Ind,
 9-1157-93,Mohammad Zaher Ghanizada,11,M,Ind,
@@ -2490,7 +2490,7 @@ id,name,ballotNumber,gender,party,incumbent
 9-1185-53,Enayatullah Sadeq,80,M,Ind,
 9-1193-146,Abdul Khan Sediqi,2,M,Ind,
 9-1194-136,Alhaj Abdul Mudaber Safi,48,M,Ind,
-9-1197-54,Shokria Essakhel,69,F,Ind,
+9-1197-54,Shokria Essakhel,69,F,Ind,True
 9-1205-151,Haji Ahmad Daneshyar,47,M,Ind,
 9-1234-17,Alhaj Noor Mohammad Nekkhwah,84,M,Ind,
 9-1249-41,Alhaj Mamor Ahmadzai,44,M,Ind,
@@ -2532,7 +2532,7 @@ id,name,ballotNumber,gender,party,incumbent
 9-1553-9,Nooria Hamidi,62,F,Ind,
 9-1561-131,Sardar Amanullah Ariaz,31,M,Ind,
 9-1565-156,Ejazulhai Haqjo,45,M,Ind,
-9-1569-90,Mohammad Hussain Hussaini,10,M,Political Party,
+9-1569-90,Mohammad Hussain Hussaini,10,M,Political Party,True
 9-1577-92,Dr. Haroon Samarqandi,37,M,Ind,
 9-1581-35,Farzana Farahmand,43,F,Ind,
 9-1585-97,Zekrya Hamdard,56,M,Ind,
