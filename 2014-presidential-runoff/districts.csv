@@ -1,0 +1,408 @@
+id,name,provId,geoId
+101,Kabul,1,101
+105,Deh Sabz,1,102
+106,Shakardara,1,103
+102,Paghman,1,104
+103,Chahar Asyab,1,105
+107,Musayi,1,106
+104,Bagrami,1,107
+114,Qarabagh,1,108
+110,Kalakan,1,109
+108,Mir Bacha Kot,1,110
+111,Guldara,1,111
+109,Khak-e- Jabbar,1,112
+115,Surobi,1,113
+113,Estalef,1,114
+112,Farza,1,115
+201,Mahmud-e- Raqi,2,201
+205,Nejrab,2,202
+203,Koh Band,2,203
+202,Hisa Duwum-e- Kohestan,2,204
+206,Tagab,2,205
+207,Alasay,2,206
+204,Hesa Awal-e- Kohestan,2,207
+301,Chaharikar,3,301
+305,Jabalussaraj,3,302
+303,Shinwari,3,303
+302,Bagram,3,304
+304,Sayd Khel,3,305
+306,Salang,3,306
+307,Syah Gerd,3,307
+308,Koh-e- Safi,3,308
+310,Shekh  Ali,3,309
+309,Surkhe Parsa,3,310
+401,Maydan Shahr,4,401
+403,Jalrez,4,402
+402,Nerkh,4,403
+407,Hesa Awal-e- Behsud,4,404
+406,Day Mirdad,4,405
+404,Chak,4,406
+405,Saydabad,4,407
+409,Markaz-e-Behsud,4,408
+408,Jaghatu,4,409
+501,Pul-e- Alam,5,501
+504,Khoshi,5,502
+505,Mohammad Agha,5,503
+502,Baraki Barak,5,504
+503,Charkh,5,505
+506,Kharwar,5,506
+507,Azra,5,507
+601,Jalalabad,6,601
+602,Behsud,6,602
+603,Surkh Rod,6,603
+608,Khowgiani,6,604
+604,Chaparhar,6,605
+607,Rodat,6,606
+605,Kama,6,607
+606,Kuz Kunar,6,608
+612,Dara-e-Nur,6,609
+621,Hesarak,6,610
+619,Sherzad,6,611
+611,Pachier Agam,6,612
+610,Deh Bala,6,613
+613,Kot,6,614
+609,Bati Kot,6,615
+614,Goshta,6,616
+615,Achin,6,617
+616,Shinwar,6,618
+617,Muhmand Dara,6,619
+618,Lal Pur,6,620
+620,Nazian,6,621
+622,Dur Baba,6,622
+701,Mehtarlam,7,701
+703,Alishang,7,702
+702,Qarghayi,7,703
+704,Alingar,7,704
+705,Daulat Shah,7,705
+801,Bazarak,8,801
+806,Shutul,8,802
+802,Rukha,8,803
+803,Dara,8,804
+804,Khenj (Hes-e- Awal),8,805
+805,Onaba(Anawa),8,806
+807,Parian,8,807
+901,Pul-e- khumri,9,901
+905,Baghlan-e-jadid,9,902
+902,Dahana-e-Ghory,9,903
+903,Dushi,9,904
+904,Nahrin,9,905
+911,Tala wa barfak,9,906
+906,Khenjan,9,907
+907,Andarab,9,908
+909,Khwaja Hejran,9,909
+910,Burka,9,910
+912,Pul-e-Hesar,9,911
+908,Deh Salah,9,912
+913,Khowst wa Fereng,9,913
+914,Guzargah-e- Nur,9,914
+915,Firing Wa Gharu,9,915
+1001,Bamyan,10,1001
+1003,Sayghan,10,1002
+1005,Yakawlang,10,1003
+1006,Panjab,10,1004
+1002,Shibar,10,1005
+1004,Kahmard,10,1006
+1007,Waras,10,1007
+1101,Ghazni,11,1101
+1103,Khwaja Umari,11,1102
+1102,Wali Muhammad-e- Shahid,11,1103
+1104,Waghaz,11,1104
+1107,Andar,11,1105
+1105,Deh Yak,11,1106
+1108,Zana Khan,11,1107
+1109,Rashidan,11,1108
+1106,Jaghatu,11,1109
+1111,Qarabagh,11,1110
+1112,Giro,11,1111
+1110,Nawur,11,1112
+1114,Jaghuri,11,1113
+1115,Muqur,11,1114
+1113,Ab Band,11,1115
+1118,Ajrestan,11,1116
+1116,Malestan,11,1117
+1117,Gelan,11,1118
+0,Nawa,,1119
+1301,Gardez,13,1201
+1306,Sayed Karam,13,1202
+1302,Ahmadaba,13,1203
+1303,Zurmat,13,1204
+1304,Shawak,13,1205
+1305,Zadran,13,1206
+1308,Lija Ahmad Khel,13,1207
+1307,Ali Khel (Jaji),13,1208
+1309,Jani Khel,13,1209
+1310,Chamkani,13,1210
+1311,Dand wa Patan,13,1211
+1501,Asad Abad,15,1301
+1503,Wata Pur,15,1302
+1504,Narang,15,1303
+1505,Sarkani,15,1304
+1502,Marawara,15,1305
+1506,Shigal wa shel tan,15,1306
+1507,Dara-e-Pech,15,1307
+1509,Chawkay,15,1308
+1510,Khas Kunar,15,1309
+1512,Dangam,15,1310
+1508,Bar Kunar,15,1311
+1511,Ghazi Abad,15,1312
+1513,Chapa Dara,15,1313
+1514,Nurgal,15,1314
+1515,Nari,15,1315
+1601,Poruns,16,1401
+1607,Mandol,16,1402
+1605,Du Ab,16,1403
+1604,Nurgaram,16,1404
+1603,Wama,16,1405
+1602,Waygal,16,1406
+1606,Kamdesh,16,1407
+1608,Barg-e- Matal,16,1408
+1701,Faiz Abad,17,1501
+1704,Yaftal-e-Sufla,17,1502
+1702,Argo,17,1503
+1703,Arghanj Khwa,17,1504
+1708,Kohistan,17,1505
+1714,Raghistan,17,1506
+1709,Yawan,17,1507
+1713,Shahr-e-Buzorg,17,1508
+1711,Teshkan,17,1509
+1707,Darayem,17,1510
+1705,Khash,17,1511
+1706,Baharak,17,1512
+1712,Shuhada,17,1513
+1719,Shighnan,17,1514
+1727,Darwaz-e-Balla,17,1515
+1721,Kof Ab,17,1516
+1720,Khwahan,17,1517
+1715,Keshem,17,1518
+1717,Tagab,17,1519
+1718,Yamgan,17,1520
+1710,Jorm,17,1521
+1716,Warduj,17,1522
+1723,Ishkashem,17,1523
+1722,Darwaz,17,1524
+1724,Shaki,17,1525
+1726,Koran wa Monjan,17,1526
+1725,Zebak,17,1527
+1728,Wakhan,17,1528
+1801,Taloqan,18,1601
+1802,Hazar Sumuch,18,1602
+1803,Baharak,18,1603
+1804,Bangi,18,1604
+1805,Chal,18,1605
+1806,Namak Ab,18,1606
+1808,Farkhar,18,1607
+1807,Kalafgan,18,1608
+1810,Rostaq,18,1609
+1816,Chah Ab,18,1610
+1817,Yangi Qala,18,1611
+1814,Khwaja Bahawuddin,18,1612
+1812,Dasht-e-Qala,18,1613
+1809,Khwaja Ghar,18,1614
+1811,Ishkamish,18,1615
+1813,Warsaj,18,1616
+1815,Darqad,18,1617
+1901,Kunduz,19,1701
+1905,Imam Saheb,19,1702
+1907,Qala-e-Zal,19,1703
+1902,Chahar Darah,19,1704
+1903,Ali Abad,19,1705
+1904,Khan Abad,19,1706
+1906,Dasht-e-Archi,19,1707
+2101,Mazar-e-Sharif,21,1801
+2102,Nahr-e- Shahi,21,1802
+2112,Shor Tepa,21,1803
+2109,Dawlat Abad,21,1804
+2106,Balkh,21,1805
+2103,Deh Dadi,21,1806
+2104,Chahar Kent,21,1807
+2105,Marmul,21,1808
+2110,Khulm,21,1809
+2113,Kaldar,21,1810
+0,Sharak-e-Hayratan,,1811
+2111,Chahar Bolak,21,1812
+2108,Chemtal,21,1813
+2107,Sholgareh,21,1814
+2114,Kishindeh,21,1815
+2115,Zari,21,1816
+2001,Aybak,20,1901
+2002,Hazrat-e- Sultan,20,1902
+2004,Feroz Nakhchir,20,1903
+2006,Darah Suf-e- Payin,20,1904
+2006,Darah Suf-e-Bala,20,1905
+2003,Khuram wa Sarbagh,20,1906
+2005,Ruy-e-Du Ab,20,1907
+2201,Sar-e-Pul,22,2001
+2202,Sayad,22,2002
+2203,Kohistanat,22,2003
+2204,Sozma Qala,22,2004
+2206,Gosfandi,22,2005
+2207,Balkh Ab,22,2006
+2205,Sang(San)Charak,22,2007
+2301,Chaghcharan,23,2101
+2304,Chahar Sadra,23,2102
+2302,Du Lina,23,2103
+2303,Dawlat Yar,23,2104
+2306,Shahrak,23,2105
+2308,Taywarah,23,2106
+2305,Pasaband,23,2107
+2307,Lal Wa Sarjangal,23,2108
+2309,Tolak,23,2109
+2310,Saghar,23,2110
+2401,Nili,24,2201
+2404,Ashtarlay,24,2202
+2405,Khadir,24,2203
+2406,kiti,24,2204
+2403,Gizab,24,2205
+2402,Shahristan,24,2206
+2408,Sang-e-Takht,24,2207
+2409,Kajran,24,2208
+2407,Miramor,24,2209
+2501,Tirin Kot,25,2301
+2503,Chora,25,2302
+2504,Shahid-e-Hassas,25,2303
+2502,Dehrawud,25,2304
+2505,Khas Uruzgan,25,2305
+2601,Qalat,26,2401
+2605,Arghandab,26,2402
+2604,Mizan,26,2403
+2602,Tarnak Wa Jaldak,26,2404
+2603,Shinkay,26,2405
+2606,Shah Joy,26,2406
+0,Kakar,,2407
+2607,Day chopan,26,2408
+2608,Atghar,26,2409
+2610,Shomulzay,26,2410
+2609,Naw Bahar,26,2411
+1201,Sharan,12,2501
+1202,Mata Khan,12,2502
+1203,Yosuf Khel,12,2503
+1205,Sar Hawzeh(Rawzeh),12,2504
+1207,Zarghun Shahr,12,2505
+1204,Yahya Khel,12,2506
+1206,Omna,12,2507
+1208,Gomal,12,2508
+1210,Sarobi,12,2509
+1211,Urgun,12,2510
+1213,Nika,12,2511
+1209,Jani Khel,12,2512
+1217,Waza Khah,12,2513
+1218,Wor Mamay,12,2514
+1214,Bermel (Burmul),12,2515
+1215,Gian,12,2516
+1212,Ziruk,12,2517
+1216,Dila,12,2518
+1219,Turwo (Tarwe),12,2519
+1401,Khost(Matun),14,2601
+1407,Sabri,14,2602
+1405,Musa Khel,14,2603
+1406,Nadir Shah Kot,14,2604
+1402,Mando Zayi,14,2605
+1404,Tani,14,2606
+1403,Gurbuz,14,2607
+1408,Tere Zayi,14,2608
+1410,Qalandar,14,2609
+1412,Shamal (Shamul),14,2610
+1411,Spera,14,2611
+1409,Bak,14,2612
+1413,Jaji Maydan,14,2613
+2801,Shiberghan,28,2701
+2804,Mingajik,28,2702
+2802,Khwaja Du Koh,28,2703
+2805,Qush Tepa,28,2704
+2808,Fayz Abad,28,2705
+2803,Khanaqa,28,2706
+2807,Aqcha,28,2707
+2809,Mardyan,28,2708
+2810,Qarqin,28,2709
+2806,Khamyab,28,2710
+2811,Darz Ab,28,2711
+2901,Maymana,29,2801
+2903,Khwaja Sabzposh,29,2802
+2902,Pashtun kot,29,2803
+2906,Shirin Tagab,29,2804
+2904,Almar,29,2805
+2907,Qaysar,29,2806
+2910,Kohistan,29,2807
+2908,Garziwan,29,2808
+2905,Bil Cheragh,29,2809
+2909,Dawlat Abad,29,2810
+2913,Andkhoy,29,2811
+2911,Qaram Qol,29,2812
+2914,Khan-e-Chahar Bagh,29,2813
+2912,Qorghan,29,2814
+3101,Qala-e-Naw,31,2901
+3103,Muqur,31,2902
+3102,Ab Kamari,31,2903
+3104,Qadis,31,2904
+3106,Jawand,31,2905
+3105,Bala Murghab,31,2906
+3107,Ghormach,31,2907
+3201,Hirat,32,3001
+3202,Injil,32,3002
+3207,Kushk,32,3003
+3205,Zinda Jan,32,3004
+3203,Guzara,32,3005
+3206,Pashtun  Zarghun,32,3006
+3204,Karukh,32,3007
+3208,Gulran,32,3008
+3211,Ghoryan,32,3009
+3209,Adraskan,32,3010
+3215,Farsi,32,3011
+3212,Obe,32,3012
+3210,Kushk-e-Kohna,32,3013
+3213,Kohsan,32,3014
+3214,Shindand,32,3015
+3216,Chisht-e-Sharif,32,3016
+3301,Farah,33,3101
+3308,Bakwa,33,3102
+3306,Bala Buluk,33,3103
+3303,Khak-e-Safed,33,3104
+3302,Pusht Rod,33,3105
+3304,Qala-e-Kah,33,3106
+3305,Shib Koh,33,3107
+3309,Lash-e-Juwayn,33,3108
+3310,Gulestan,33,3109
+3311,Pur Chaman,33,3110
+3307,Anar Dara,33,3111
+3001,Lashkar Gah,30,3201
+3004,Nahr-e-Saraj,30,3202
+3002,Nad-e-Ali,30,3203
+3003,Nawa-e-Barak Zaiy,30,3204
+3008,Sangin,30,3205
+3009,Musa Qaleh,30,3206
+3007,Naw Zad,30,3207
+3005,Wa Sher,30,3208
+3006,Garm Ser,30,3209
+3010,Kajaki,30,3210
+0,Baghran,,3211
+3011,Reg(khan Neshin),30,3212
+0,Deh shu,,3213
+2701,Kandahar,27,3301
+2702,Arghandab,27,3302
+2705,Zheray,27,3303
+2704,Panj wayi,27,3304
+2703,Daman,27,3305
+2706,Shah Wali Kot,27,3306
+2707,Khakrez,27,3307
+2710,Maywand,27,3308
+2716,Reg,27,3309
+2714,Shor Abak,27,3310
+2711,Spin Boldak,27,3311
+2708,Arghistan,27,3312
+2713,Miyanshin,27,3313
+2712,Nesh,27,3314
+2709,Ghorak,27,3315
+2715,Maruf,27,3316
+3401,Zaranj,34,3401
+3402,Kang,34,3402
+3404,Chahar Burjak,34,3403
+3403,Chakhansur,34,3404
+3405,Khash Rod,34,3405
+1312,Laja Mangal,,
+808,Abshar,,
+2718,Takhta Pul,,
+2717,Dand,,
+2506,Chenarto,,
+1313,Meerzaka,,
+3014,Marja,,
+3406,Delaram,,
