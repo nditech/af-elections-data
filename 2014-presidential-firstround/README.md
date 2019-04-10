@@ -1,0 +1,2 @@
+## 2014 Presidential first round data
+All data was compiled from the original [2014 Afghanistan data repo](https://github.com/developmentseed/aodp-data/tree/runoff). Only minimal data processing was done to make sure the file structure follows the spec of [the API generation scripts](https://github.com/developmentseed/af-elections-api).
