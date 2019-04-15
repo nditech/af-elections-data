@@ -1,3 +1,27 @@
----
----
+name: Wolesi Jirga
+year: 2018
+type: parliamentary
+api:
+  admin-areas.geo: /aa/2009-aa.geojson
+  admin-areas.meta: /elections/2018-wolesi-jirga/admin-areas
 
+rounds: 
+
+dataBrowser:
+  tables:
+    -
+      id: candidates
+      extraColumns:
+        -
+          id: preliminary
+          label: Preliminary votes
+          sortable: true
+          accessor: votes.preliminary
+
+overview:
+  title: 2018 Wolesi Jirga
+  content: AfghanistanElectionData.org is designed...
+  longTitle: |
+    2018 Polling data suggests higher citizen engagement
+  longContent: |
+    This is the content. **Markdown supported**
