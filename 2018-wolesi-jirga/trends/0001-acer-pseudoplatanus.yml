@@ -1,0 +1,36 @@
+id: 0001-acer-pseudoplatanus
+title: Acer pseudoplatanus L.
+content: |
+  Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
+
+longTitle: A libero nam dui proin leo odio porttitor id consequat
+longContent: | 
+  Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+  
+  Sed ante. Vivamus tortor. Duis mattis egestas metus.
+  
+  Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+  
+  Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+  
+  Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+  
+  In congue. Etiam justo. Etiam pretium iaculis justo.
+mapConfig:
+  style: mapbox://styles/devseed/cjnawi07v06cq2rmtof8u8hie
+  layers:
+    -
+      id: regions
+      label: Choroplet
+      layer: peruRegions
+      enabled: true
+    -
+      id: borders
+      label: Regions
+      layer: borders
+      enabled: false
+    -
+      id: names
+      label: Region Names
+      layer: namesRegions
+      enabled: false
