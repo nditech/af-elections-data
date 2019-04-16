@@ -1,0 +1,38 @@
+id: 0002-castilleja-cryptantha
+title: Castilleja cryptantha Pennell
+content: |
+  Sed accumsan felis.
+longTitle: Lobortis vel dapibus at diam nam tristique tortor eu pede
+longContent: | 
+  Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+  
+  Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+  
+  Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+  
+  Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+  
+  Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+mapConfig:
+  style: mapbox://styles/devseed/cjoarsdgq1l1u2smn1rrrwo4u
+  layers:
+    -
+      id: k-set
+      label: Kenya settlements
+      layer: kenya-settlements
+      enabled: false
+    -
+      id: k-lights
+      label: Kenya lights
+      layer: kenya-lights
+      enabled: false
+    -
+      id: g-set
+      label: Ghana settlements
+      layer: ghana-settlements
+      enabled: true
+    -
+      id: g-lights
+      label: Ghana lights
+      layer: ghana-lights
+      enabled: true
