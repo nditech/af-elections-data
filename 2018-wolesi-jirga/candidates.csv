@@ -76,7 +76,7 @@ id,name,ballotNumber,gender,party,incumbent,electedPreliminary,electedFinal
 1-1076-50,haji Sekandar Fraji,88,M,independent,0,0,0
 1-1078-11,Mustafa Arian Tarakhel,453,M,independent,0,0,0
 1-1079-1166,Alhaj Mohammad Omer Marjan,574,M,independent,0,0,0
-1-1080-172,Mariam Sulaimankhel,9,F,independent,0,1,0
+1-1080-172,Mariam Sulaimankhel,9,F,independent,0,1,1
 1-1082-84,Abdal Amin Haqjo,353,M,independent,0,0,0
 1-1083-51,Drs. Frozan Fana,730,F,independent,0,0,0
 1-1084-30,Del Aqa Kohdamani,544,M,independent,0,0,0
@@ -1227,31 +1227,31 @@ id,name,ballotNumber,gender,party,incumbent,electedPreliminary,electedFinal
 19-1094-40,Kamela Ibrahimi,50,F,independent,0,0,0
 19-1125-89,Ghullam ali Ghazi,78,M,independent,0,0,0
 19-1133-65,Saranwal Barat Mohammad Omarkhel,28,M,Political party,0,0,0
-19-1141-13,Eng Mohammaduddin Hamdard,31,M,independent,0,1,0
-19-1142-9,Shah Khan Shirzad,32,M,independent,0,1,0
-19-1149-35,Fazel Karim Aimalq,49,M,independent,0,1,0
+19-1141-13,Eng Mohammaduddin Hamdard,31,M,independent,0,1,1
+19-1142-9,Shah Khan Shirzad,32,M,independent,0,1,1
+19-1149-35,Fazel Karim Aimalq,49,M,independent,0,1,1
 19-1157-44,Abdul Ghafoor Hotak,19,M,independent,0,0,0
-19-1161-47,Nilofar Jalali Kofi,5,F,independent,0,1,0
+19-1161-47,Nilofar Jalali Kofi,5,F,independent,0,1,1
 19-1165-36,Mohammad Dawood Akbari Arzbigi,4,M,independent,0,0,0
 19-1169-23,Abdul Samad Bahman,82,M,independent,0,0,0
 19-1173-31,Mohammad Omer Aaqtash,77,M,independent,0,0,0
 19-1174-10,Shekeba Hashemi,6,F,independent,0,0,0
 19-1177-2,Abdul Mohammad Mohammadi,3,M,independent,0,0,0
-19-1185-43,Eng Kamal Safi,21,M,independent,0,1,0
+19-1185-43,Eng Kamal Safi,21,M,independent,0,1,1
 19-1186-4,Mirza Mohammad Laghmani,37,M,independent,0,0,0
 19-1193-63,Abdul Rahman Baryalai Fazel,44,M,independent,0,0,0
 19-1197-28,Nooruddin Beg,57,M,independent,0,0,0
 19-1225-44,Mirwais Ahmadzai,56,M,independent,0,0,0
-19-1226-56,Dr Fatema Aziz,67,F,independent,0,1,0
+19-1226-56,Dr Fatema Aziz,67,F,independent,0,1,1
 19-1229-60,Mohammad Jumma Bawari,22,M,independent,0,0,0
 19-1233-96,Mohammad Gull Sahebzada,41,M,independent,0,0,0
 19-1241-82,Mohammad Ibrahim Qarloq,7,M,independent,0,0,0
 19-1249-29,Assadullah Know to Noor Agha,20,M,independent,0,0,0
 19-1250-79,Shukria Sarbeland,16,F,Political party,0,0,0
 19-1253-61,Frozan Gochli,54,F,Political party,0,0,0
-19-1265-30,Alhaj Abdul Rauf Ibrahimi,62,M,independent,0,1,0
+19-1265-30,Alhaj Abdul Rauf Ibrahimi,62,M,independent,0,1,1
 19-1266-91,Eng Wahidullah Hemat,23,M,Political party,0,0,0
-19-1273-8,Mohammadullah Bataash,2,M,Political party,0,1,0
+19-1273-8,Mohammadullah Bataash,2,M,Political party,0,1,1
 19-1274-25,Alhaj Mohammad Sami Aimaq,88,M,independent,0,0,0
 19-1281-42,Ustad Abdul Saboor Ghafoori,70,M,Political party,0,0,0
 19-1285-90,Ghullam Sakhi Arab,68,M,independent,0,0,0
@@ -1284,7 +1284,7 @@ id,name,ballotNumber,gender,party,incumbent,electedPreliminary,electedFinal
 19-1537-14,Abdul Nazir Haidari,89,M,independent,0,0,0
 19-1541-71,Ghullam Ali Shirzai,64,M,independent,0,0,0
 19-1545-55,Sayed Mohammad Jawad Agha,1,M,independent,0,0,0
-19-1553-42,Haji Mohammad Omar Khan,13,M,independent,0,1,0
+19-1553-42,Haji Mohammad Omar Khan,13,M,independent,0,1,1
 19-1561-30,Abdul Mutaleb Folad Hamdard,66,M,Political party,0,0,0
 19-1585-66,Khadija Ghaznawi,17,F,independent,0,0,0
 19-1593-12,Haji Mohammad Amin Azimi,69,M,independent,0,0,0
@@ -2162,11 +2162,11 @@ id,name,ballotNumber,gender,party,incumbent,electedPreliminary,electedFinal
 35-1137-95,Dr Mansoor Mullakhel,13,M,independent,0,0,0
 35-1141-25,Amanullah Ahmadzai,39,M,independent,0,0,0
 35-1169-73,Mohammad Khan Katawazai,4,M,independent,0,0,0
-35-1185-61,Habib Rahman Afghan,26,M,independent,0,1,0
-35-1186-15,Alhaj Haidar Jan Nayemzoi,17,M,independent,0,1,0
+35-1185-61,Habib Rahman Afghan,26,M,independent,0,1,1
+35-1186-15,Alhaj Haidar Jan Nayemzoi,17,M,independent,0,1,1
 35-1186-17,Haji Ghullam Nabi Kharoti,36,M,independent,0,0,0
 35-1187-2,Qurban Mohammad,277,M,independent,0,0,0
-35-1231-77,Alhaj Shah Wazir Tarakhel,37,M,independent,0,1,0
+35-1231-77,Alhaj Shah Wazir Tarakhel,37,M,independent,0,1,1
 35-1245-1211,Farahnaz Durani,30,F,independent,0,0,0
 35-1269-88,Abdul Qader Kuchi,24,M,independent,0,0,0
 35-1289-90,Sayed Mohammad Hariq,22,M,independent,0,0,0
@@ -2174,7 +2174,7 @@ id,name,ballotNumber,gender,party,incumbent,electedPreliminary,electedFinal
 35-1338-9,Assadullah Ahmadzai,3,M,independent,0,0,0
 35-1360-155,Haji Azizullah Habibi,660,M,independent,0,0,0
 35-1431-127,Mohammad Yousuf Saber,12,M,independent,0,0,0
-35-1439-17,Rasool Khan Kuchi,11,M,independent,0,1,0
+35-1439-17,Rasool Khan Kuchi,11,M,independent,0,1,1
 35-1441-33,Haji Enayatullah Sahraye,27,M,independent,0,0,0
 35-1441-41,Mohammad Rasool Qalatwal,23,M,independent,0,0,0
 35-1468-3052,Zulfaqar Stankizai,28,M,independent,0,0,0
@@ -2185,16 +2185,16 @@ id,name,ballotNumber,gender,party,incumbent,electedPreliminary,electedFinal
 35-1549-159,Kako Jaan Neyazai,617,M,independent,0,0,0
 35-1569-1194,Karima Shamrez Hotak,14,F,independent,0,0,0
 35-1580-178,Afridi Kuchi,29,M,independent,0,0,0
-35-1585-85,Hamida Ahmadzai,31,F,independent,1,1,0
+35-1585-85,Hamida Ahmadzai,31,F,independent,1,1,1
 35-1661-1088,Najibullah Kuchi Isshaqzai,34,M,independent,0,0,0
-35-1672-151,Farzana Kuchi,1,F,independent,0,1,0
-35-1685-23,Nangyalai Lawang,25,,,0,1,0
-35-1687-90,Haji parwiz Arabzadah,5,M,independent,0,1,0
+35-1672-151,Farzana Kuchi,1,F,independent,0,1,1
+35-1685-23,Nangyalai Lawang,25,,,0,1,1
+35-1687-90,Haji parwiz Arabzadah,5,M,independent,0,1,1
 35-1696-154,Dr. Anisa pashaye,791,F,independent,0,0,0
 35-1755-166,Payenda Gull Ahmadzai,20,M,Political Party,0,0,0
 35-1769-156,Ustad Laila Barikzai,731,F,independent,0,0,0
 35-1771-158,Gen. Abdul Rashid Sheja,85,M,Political party,0,0,0
-35-1780-1100,Mirwais Hussainkhel,21,M,independent,0,1,0
+35-1780-1100,Mirwais Hussainkhel,21,M,independent,0,1,1
 35-1795-139,Awal Gull Ahmadzai,35,M,independent,0,0,0
 35-1808-124,Delawar Faizan,41,M,independent,0,0,0
 35-1832-153,Jubran,606,M,independent,0,0,0
@@ -2207,14 +2207,14 @@ id,name,ballotNumber,gender,party,incumbent,electedPreliminary,electedFinal
 4-1093-27,Nafisa Selay Wardag,10,F,independent,0,0,0
 4-1141-19,Saif Rahman Kamal,3,M,independent,0,0,0
 4-1161-47,Mohammad Hassan Munsef,4,M,independent,0,0,0
-4-1185-6,Alhaj Abdul Ahmad Durani,7,M,Political Party,0,1,0
+4-1185-6,Alhaj Abdul Ahmad Durani,7,M,Political Party,0,1,1
 4-1249-48,Anisa Taj Wardag,11,F,independent,0,0,0
 4-1265-33,Shir Alam Harifaal,40,M,independent,0,0,0
 4-1269-12,Alhaj Gul Habib Habibi,36,M,independent,0,0,0
 4-1273-28,Dr. Hamidah Danesh Wardag,35,F,independent,0,0,0
 4-1281-59,Maliyar Wardag,29,M,independent,0,0,0
 4-1285-29,Ajmal Shinozadah,32,M,independent,0,0,0
-4-1297-27,Mohammad Mahdi Rasekh,26,M,independent,0,1,0
+4-1297-27,Mohammad Mahdi Rasekh,26,M,independent,0,1,1
 4-1305-35,Alhaj Mohammad Ayoub Sharifi,31,M,Political Party,0,0,0
 4-1313-38,Mohammad Dawood Abid,37,M,Unlisted,0,0,0
 4-1321-50,Dr. Mohammad Ibrahim Karimi,38,M,Political Party,0,0,0
@@ -2226,15 +2226,15 @@ id,name,ballotNumber,gender,party,incumbent,electedPreliminary,electedFinal
 4-1453-41,Habibullah Nazari,27,M,independent,0,0,0
 4-1461-11,Abdul Reza Rezaye,1,M,Political Party,0,0,0
 4-1465-51,Safiullah Wardag,21,M,independent,0,0,0
-4-1477-40,Eng. Hamidah Akbari,30,F,independent,0,1,0
+4-1477-40,Eng. Hamidah Akbari,30,F,independent,0,1,1
 4-1477-47,Sayed Habib Hussaini,20,M,independent,0,0,0
 4-1489-13,Mohammad Hazrat Jaanan,13,M,independent,0,0,0
 4-1505-7,Alhaj Sediqa Mubarez,2,F,independent,0,0,0
-4-1541-31,Halima Askari,18,F,independent,0,1,0
+4-1541-31,Halima Askari,18,F,independent,0,1,1
 4-1545-53,Ahmad Farid Nekzai,33,M,independent,0,0,0
 4-1577-46,Sayed Rohullah Alawi,34,M,independent,0,0,0
 4-1581-12,Dr. Zia gull Rezaye,25,F,Political Party,0,0,0
-4-1593-8,Abdul Rahman Wardag,8,M,independent,0,1,0
+4-1593-8,Abdul Rahman Wardag,8,M,independent,0,1,1
 4-1601-121,Waliullah Shahin,9,M,independent,0,0,0
 4-1605-26,Najibullah Najib,24,M,independent,0,0,0
 4-1613-52,Eng. Nek Mohammad Mayar,19,M,independent,0,0,0
@@ -2458,7 +2458,7 @@ id,name,ballotNumber,gender,party,incumbent,electedPreliminary,electedFinal
 9-1001-87,Rahela Faqiri,81,F,independent,0,0,0
 9-1005-104,Manizha Shirzad Ariaye,63,F,independent,0,0,0
 9-1006-139,Mohammad Jaan Qaderi,34,M,independent,0,0,0
-9-1009-48,Dr. Mohammad Nasim Mudaber,86,M,independent,0,1,0
+9-1009-48,Dr. Mohammad Nasim Mudaber,86,M,independent,0,1,1
 9-1010-76,Najibullah Kamini,75,M,independent,0,0,0
 9-1022-128,Ahmad Munir,60,M,independent,0,0,0
 9-1029-47,Alhaj Abdul Rahman,16,M,independent,0,0,0
@@ -2490,15 +2490,15 @@ id,name,ballotNumber,gender,party,incumbent,electedPreliminary,electedFinal
 9-1185-53,Enayatullah Sadeq,80,M,independent,0,0,0
 9-1193-146,Abdul Khan Sediqi,2,M,independent,0,0,0
 9-1194-136,Alhaj Abdul Mudaber Safi,48,M,independent,0,0,0
-9-1197-54,Shokria Essakhel,69,F,independent,0,1,0
+9-1197-54,Shokria Essakhel,69,F,independent,0,1,1
 9-1205-151,Haji Ahmad Daneshyar,47,M,independent,0,0,0
 9-1234-17,Alhaj Noor Mohammad Nekkhwah,84,M,independent,0,0,0
-9-1249-41,Alhaj Mamor Ahmadzai,44,M,independent,0,1,0
+9-1249-41,Alhaj Mamor Ahmadzai,44,M,independent,0,1,1
 9-1254-34,Alhaj Habib Rahman Shirzai,57,M,independent,0,0,0
 9-1265-143,Abdul Shokor Kohgadai,1,M,independent,0,0,0
 9-1266-89,Mohammad Ismail Daneshyar,30,M,independent,0,0,0
-9-1273-15,Alhaj Ustad Abdul Razaq Hashemi,41,M,independent,0,1,0
-9-1274-91,Alhaj Assadullah Shahbaz,72,M,independent,0,1,0
+9-1273-15,Alhaj Ustad Abdul Razaq Hashemi,41,M,independent,0,1,1
+9-1274-91,Alhaj Assadullah Shahbaz,72,M,independent,0,1,1
 9-1281-85,Gullalai Kherad,82,F,independent,0,0,0
 9-1285-149,Dr. Zamanuddin Nejat,85,M,independent,0,0,0
 9-1289-38,Mastora Arezo,74,F,independent,0,0,0
@@ -2509,7 +2509,7 @@ id,name,ballotNumber,gender,party,incumbent,electedPreliminary,electedFinal
 9-1306-20,Haji Jalaluddin,28,M,independent,0,0,0
 9-1313-145,Pohanyar Ustad Abdul Sami,76,M,independent,0,0,0
 9-1321-153,Hassibullah Rahmani,55,M,independent,0,0,0
-9-1329-120,Mohammad Azim Mohseni,4,M,independent,0,1,0
+9-1329-120,Mohammad Azim Mohseni,4,M,independent,0,1,1
 9-1330-119,Mohammad Zarif Zarif,35,M,independent,0,0,0
 9-1333-51,Besmellah Sharifi,61,M,independent,0,0,0
 9-1337-52,Salahuddin Aimaq,27,M,independent,0,0,0
@@ -2527,9 +2527,9 @@ id,name,ballotNumber,gender,party,incumbent,electedPreliminary,electedFinal
 9-1505-1,Abdul Basir Jawid,42,M,independent,0,0,0
 9-1509-13,Alhaj Mohammad Iqbal Saadat,46,M,independent,0,0,0
 9-1537-25,Humaira Kohzad,40,F,independent,0,0,0
-9-1541-33,Attiq Ramin,25,M,independent,0,1,0
+9-1541-33,Attiq Ramin,25,M,independent,0,1,1
 9-1545-59,Alhaj Dr. Khairuddin Fayez,26,M,independent,0,0,0
-9-1553-9,Nooria Hamidi,62,F,independent,0,1,0
+9-1553-9,Nooria Hamidi,62,F,independent,0,1,1
 9-1561-131,Sardar Amanullah Ariaz,31,M,independent,0,0,0
 9-1565-156,Ejazulhai Haqjo,45,M,independent,0,0,0
 9-1569-90,Mohammad Hussain Hussaini,10,M,Political Party,0,0,0
