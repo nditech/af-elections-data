@@ -417,33 +417,33 @@ id,name,provId,geoId,registeredMen,registeredWomen,registeredTotal
 10119,Nahia 19,1,101,9075,3159,12234
 10121,Nahia 21,1,101,20402,4453,24855
 10122,Nahia 22,1,101,3825,2785,6610
-60101,Provincial Capital Of Nangarhar ( Jalalabad ),6,601,16083,5556,21639
-60102,Provincial Capital Of Nangarhar ( Jalalabad ),6,601,22581,5776,28357
-60103,Provincial Capital Of Nangarhar ( Jalalabad ),6,601,20598,10097,30695
-60104,Provincial Capital Of Nangarhar ( Jalalabad ),6,601,28540,11329,39869
-60105,Provincial Capital Of Nangarhar ( Jalalabad ),6,601,13307,5219,18526
-60106,Provincial Capital Of Nangarhar ( Jalalabad ),6,601,13795,4489,18284
-210101,Provincial Capital Of Balkh ( Mazar-e-sharif ),21,2101,11566,8851,20417
-210102,Provincial Capital Of Balkh ( Mazar-e-sharif ),21,2101,5105,4688,9793
-210103,Provincial Capital Of Balkh ( Mazar-e-sharif ),21,2101,9411,3953,13364
-210104,Provincial Capital Of Balkh ( Mazar-e-sharif ),21,2101,5006,4098,9104
-210105,Provincial Capital Of Balkh ( Mazar-e-sharif ),21,2101,10338,9007,19345
-210106,Provincial Capital Of Balkh ( Mazar-e-sharif ),21,2101,5064,3460,8524
-210107,Provincial Capital Of Balkh ( Mazar-e-sharif ),21,2101,6960,6418,13378
-210108,Provincial Capital Of Balkh ( Mazar-e-sharif ),21,2101,6807,7632,14439
-210109,Provincial Capital Of Balkh ( Mazar-e-sharif ),21,2101,4269,4208,8477
-210110,Provincial Capital Of Balkh ( Mazar-e-sharif ),21,2101,8418,8394,16812
-270101,Provincial Capital Of Kandahar ( Kandahar ),27,2701,38655,13456,52111
-270102,Provincial Capital Of Kandahar ( Kandahar ),27,2701,38596,8241,46837
-270103,Provincial Capital Of Kandahar ( Kandahar ),27,2701,5295,1909,7204
-270104,Provincial Capital Of Kandahar ( Kandahar ),27,2701,40920,5383,46303
-270105,Provincial Capital Of Kandahar ( Kandahar ),27,2701,4834,751,5585
-270106,Provincial Capital Of Kandahar ( Kandahar ),27,2701,6911,1058,7969
-270107,Provincial Capital Of Kandahar ( Kandahar ),27,2701,10403,3063,13466
-270108,Provincial Capital Of Kandahar ( Kandahar ),27,2701,11443,1123,12566
-270109,Provincial Capital Of Kandahar ( Kandahar ),27,2701,24985,3591,28576
-270110,Provincial Capital Of Kandahar ( Kandahar ),27,2701,36503,7885,44388
-270113,Provincial Capital Of Kandahar ( Kandahar ),27,2701,5334,571,5905
+60101,Provincial Capital Of Nangarhar (Jalalabad),6,601,16083,5556,21639
+60102,Provincial Capital Of Nangarhar (Jalalabad),6,601,22581,5776,28357
+60103,Provincial Capital Of Nangarhar (Jalalabad),6,601,20598,10097,30695
+60104,Provincial Capital Of Nangarhar (Jalalabad),6,601,28540,11329,39869
+60105,Provincial Capital Of Nangarhar (Jalalabad),6,601,13307,5219,18526
+60106,Provincial Capital Of Nangarhar (Jalalabad),6,601,13795,4489,18284
+210101,Provincial Capital Of Balkh (Mazar-e-sharif ),21,2101,11566,8851,20417
+210102,Provincial Capital Of Balkh (Mazar-e-sharif),21,2101,5105,4688,9793
+210103,Provincial Capital Of Balkh (Mazar-e-sharif),21,2101,9411,3953,13364
+210104,Provincial Capital Of Balkh (Mazar-e-sharif),21,2101,5006,4098,9104
+210105,Provincial Capital Of Balkh (Mazar-e-sharif),21,2101,10338,9007,19345
+210106,Provincial Capital Of Balkh (Mazar-e-sharif),21,2101,5064,3460,8524
+210107,Provincial Capital Of Balkh (Mazar-e-sharif),21,2101,6960,6418,13378
+210108,Provincial Capital Of Balkh (Mazar-e-sharif),21,2101,6807,7632,14439
+210109,Provincial Capital Of Balkh (Mazar-e-sharif),21,2101,4269,4208,8477
+210110,Provincial Capital Of Balkh (Mazar-e-sharif),21,2101,8418,8394,16812
+270101,Provincial Capital Of Kandahar (Kandahar),27,2701,38655,13456,52111
+270102,Provincial Capital Of Kandahar (Kandahar),27,2701,38596,8241,46837
+270103,Provincial Capital Of Kandahar (Kandahar),27,2701,5295,1909,7204
+270104,Provincial Capital Of Kandahar (Kandahar),27,2701,40920,5383,46303
+270105,Provincial Capital Of Kandahar (Kandahar),27,2701,4834,751,5585
+270106,Provincial Capital Of Kandahar (Kandahar),27,2701,6911,1058,7969
+270107,Provincial Capital Of Kandahar (Kandahar),27,2701,10403,3063,13466
+270108,Provincial Capital Of Kandahar (Kandahar),27,2701,11443,1123,12566
+270109,Provincial Capital Of Kandahar (Kandahar),27,2701,24985,3591,28576
+270110,Provincial Capital Of Kandahar (Kandahar),27,2701,36503,7885,44388
+270113,Provincial Capital Of Kandahar (Kandahar),27,2701,5334,571,5905
 320101,Provincial Capital Of Herat (herat),32,3201,6611,4660,11271
 320102,Provincial Capital Of Herat (herat),32,3201,2099,2289,4388
 320103,Provincial Capital Of Herat (herat),32,3201,8603,5068,13671
