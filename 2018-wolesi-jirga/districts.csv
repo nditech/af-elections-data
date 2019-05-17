@@ -1,4 +1,4 @@
-id,name,provId,geoId,registeredMen,registeredWomen,registeredTotal,femalePopulationRural,malePopulationRural,totalPopulationRural,femalePopulationUrban,malePopulationUrban,totalPopulationUrban,totalPopulationFe,totalPopulationMale,totalPopulation
+id,name,provId,geoId,registeredMen,registeredWomen,registeredTotal,femalePopulationRural,malePopulationRural,totalPopulationRural,femalePopulationUrban,malePopulationUrban,totalPopulationUrban,totalPopulationFemale,totalPopulationMale,totalPopulation
 102,Paghman,1,102,37615,19389,57004,53348,56361,109709,11609,12142,23751,64957,68503,174666
 103,Chah Arasyab,1,103,21161,12517,33678,19235,20799,40034,,,,19235,20799,59269
 104,Bagrami,1,104,51470,24471,75941,29495,31069,60564,,,,29495,31069,90059
