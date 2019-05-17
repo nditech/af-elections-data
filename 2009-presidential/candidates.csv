@@ -1,6 +1,6 @@
-id,name
-1,Ashraf Ghani Ahmadzai
-2,Dr. Abdullah Abdullah
-3,Hamed Karzai
-4,Ramazan Bashardost
-5,other
+id,name,label
+1,Ashraf Ghani Ahmadzai,Ghani
+2,Dr. Abdullah Abdullah,Abdullah
+3,Hamed Karzai,Karzai
+4,Ramazan Bashardost,Bashardost
+5,other,

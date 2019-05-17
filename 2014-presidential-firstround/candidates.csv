@@ -1,12 +1,12 @@
-id,name
-1,Eng-Qutbuddin Hilal
-2,Dr. Abdullah Abdullah
-3,Zalmai Rassoul
-4,Abdul Rahim Wardak
-5,Quayum Karzai
-6,Prof-Abdo Rabe Rasool Sayyaf
-7,Dr. Mohammad Ashraf Ghani Ahmadzai
-8,Mohammad Daoud Sultanzoy
-9,Mohd. Shafiq Gul Agha Sherzai
-10,Mohammad Nadir Naeem
-11,Hedayat Amin Arsala
+id,name,label
+1,Eng-Qutbuddin Hilal,Hilal
+2,Dr. Abdullah Abdullah,Abdullah
+3,Zalmai Rassoul,Rassoul
+4,Abdul Rahim Wardak,Wardak
+5,Quayum Karzai,Karzai
+6,Prof-Abdo Rabe Rasool Sayyaf,Sayyaf
+7,Dr. Mohammad Ashraf Ghani Ahmadzai,Ghani
+8,Mohammad Daoud Sultanzoy,Sultanzoy
+9,Mohd. Shafiq Gul Agha Sherzai,Sherzai
+10,Mohammad Nadir Naeem,Naeem
+11,Hedayat Amin Arsala,Arsala
