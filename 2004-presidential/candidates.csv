@@ -1,19 +1,19 @@
-id,name
-1,Abdul Latif Pedram
-2,Hamid Karzai
-3,Hamayon Shah Asifi
-4,Mir Mohammad Mahfouz Nedaee
-5,Haji Mohammad Mohaqiq
-6,Syed Ishaq Gilani
-7,Abdul Satar Serat
-8,Abdul Hafiz Mansoor
-9,Ghulam Farooq Nijrabi
-10,Ahmad Shah Ahmadzai
-11,Abdul Hasseb Aryan
-12,Wakil Mangal
-13,Abdul Hadi Khalilzai
-14,Mohammad Ebrahim Rashid
-15,Yonous Qanooni
-16,Massooda Jalal
-17,Syed Abdul Hadi Dabir
-18,Abdul Rashid Dostum
+id,name,label
+1,Abdul Latif Pedram,Pedram
+2,Hamid Karzai,Karzai
+3,Hamayon Shah Asifi,Asifi
+4,Mir Mohammad Mahfouz Nedaee,Nadaee
+5,Haji Mohammad Mohaqiq,Mohaqiq
+6,Syed Ishaq Gilani,Gilani
+7,Abdul Satar Serat,Serat
+8,Abdul Hafiz Mansoor,Mansoor
+9,Ghulam Farooq Nijrabi,Nijrabi
+10,Ahmad Shah Ahmadzai,Ahmadzai
+11,Abdul Hasseb Aryan,Aryan
+12,Wakil Mangal,Mangal
+13,Abdul Hadi Khalilzai,Khalilzai
+14,Mohammad Ebrahim Rashid,Rashid
+15,Yonous Qanooni,Qanooni
+16,Massooda Jalal,Jalal
+17,Syed Abdul Hadi Dabir,Dabir
+18,Abdul Rashid Dostum,Dostum
