@@ -811,6 +811,7 @@ id,name,provId,provName,distId,distName
 402018,Masjid Kalan Hajian Mosque,4,Maydanwardak,402,NERKH
 402019,Kan Ezat School,4,Maydanwardak,402,NERKH
 402020,Speen Masjid Mosque,4,Maydanwardak,402,NERKH
+402022,Karmo Khil Yak School,4,Maydanwardak,402,NERKH
 402023,Sahak School,4,Maydanwardak,402,NERKH
 403030,Shaheed Yaqoubi High School,4,Maydanwardak,403,JALREZ
 403031,Imam Mohammad Baqer High School,4,Maydanwardak,403,JALREZ
@@ -1097,6 +1098,7 @@ id,name,provId,provName,distId,distName
 609223,Se Pai Kali Mosque,6,Nangarhar,609,BATI KOT
 609224,Bati Kot School,6,Nangarhar,609,BATI KOT
 609225,Daman Mosque,6,Nangarhar,609,BATI KOT
+609226,Spagani Konj,6,Nangarhar,609,BATI KOT
 609227,Farm 3 Jame Mosque,6,Nangarhar,609,BATI KOT
 609228,Speen Khowarr Mosque,6,Nangarhar,609,BATI KOT
 609229,25 Wyale School,6,Nangarhar,609,BATI KOT
@@ -2900,6 +2902,7 @@ id,name,provId,provName,distId,distName
 1728319,Kip Kot Secondary School,17,Badakhshan,1728,WAKHAN
 1728320,Nesht Khor Secondary School,17,Badakhshan,1728,WAKHAN
 1728321,Sarhad Pamir_Patokh High School,17,Badakhshan,1728,WAKHAN
+1728322,Bozay Gombad,17,Badakhshan,1728,WAKHAN
 1801001,Abo Osman Boys High School,18,Takhar,1801,PROVINCIAL CAPITAL OF TAKHAR ( TALUQAN )
 1801002,Imam Abu Hanifa Jami Mosque,18,Takhar,1801,PROVINCIAL CAPITAL OF TAKHAR ( TALUQAN )
 1801003,Abdul Bari Shaheed School,18,Takhar,1801,PROVINCIAL CAPITAL OF TAKHAR ( TALUQAN )
@@ -4122,6 +4125,7 @@ id,name,provId,provName,distId,distName
 2503033,Markazi Bazar High School,25,Uruzgan,2503,CHORA
 2503034,Haji Mohammad Akbar Khan House,25,Uruzgan,2503,CHORA
 2503035,Dawlat Zaii High School,25,Uruzgan,2503,CHORA
+2503038,Awyano School,25,Uruzgan,2503,CHORA
 2506053,Mualem Faiz Mohammad High School,25,Uruzgan,2506,CHINARTO
 2506054,Women Clinic,25,Uruzgan,2506,CHINARTO
 2507060,Sheeran Jame Mosque,25,Uruzgan,2507,GIZAB
@@ -4402,6 +4406,7 @@ id,name,provId,provName,distId,distName
 2808095,Shesha Khan Boys High School,28,Jawzjan,2808,FAIZABAD
 2808096,Gerjak Boys Secondary School,28,Jawzjan,2808,FAIZABAD
 2808097,Haider Abad Boys Secondary School,28,Jawzjan,2808,FAIZABAD
+2809107,Mardyan High School,28,Jawzjan,2809,MARDYAN
 2810112,Joi Sarai Secondary School,28,Jawzjan,2810,QARQIN
 2810113,Makhdoom Quli Faraghi High School,28,Jawzjan,2810,QARQIN
 2901001,Kohi Khana Maimana Girls High School,29,Faryab,2901,PROVINCIAL CAPITAL OF FARYAB ( MAIMANA )
@@ -4474,6 +4479,7 @@ id,name,provId,provName,distId,distName
 2909180,Chaghtay Village Jami Mosque,29,Faryab,2909,DAWLAT ABAD
 2909181,Abdul Rahman Shaheed High School,29,Faryab,2909,DAWLAT ABAD
 2909182,Central Girls High School,29,Faryab,2909,DAWLAT ABAD
+2910193,Lolash Secondary School,29,Faryab,2910,KOHISTAN
 2911202,Yosof Mirzayee Girls School,29,Faryab,2911,QARAM QUL
 2911203,Aalti Bolak Boys and Girls High School,29,Faryab,2911,QARAM QUL
 2911204,Qechaq Secondary School,29,Faryab,2911,QARAM QUL
@@ -4572,6 +4578,8 @@ id,name,provId,provName,distId,distName
 3004091,Rawof Khan Shela Mosque,30,Helmand,3004,NAHR-E-SARAJ
 3004092,Garishk Haji Factory,30,Helmand,3004,NAHR-E-SARAJ
 3004093,Mirzakhan Jami Mosque,30,Helmand,3004,NAHR-E-SARAJ
+3004094,Saminar School,30,Helmand,3004,NAHR-E-SARAJ
+3004095,Abazan School,30,Helmand,3004,NAHR-E-SARAJ
 3005099,Shorab School,30,Helmand,3005,WASHER
 3005100,Shamarzai School,30,Helmand,3005,WASHER
 3006109,Haji Shah Khan Mosque,30,Helmand,3006,GARM SER
@@ -5028,6 +5036,9 @@ id,name,provId,provName,distId,distName
 3311202,Tolai School,33,Farah,3311,PUR CHAMAN
 3311204,Asthoi Mosque,33,Farah,3311,PUR CHAMAN
 3311224,Barfshar Mosque,33,Farah,3311,PUR CHAMAN
+3311188,Qaryah Wal village School,33,Farah,3311,PUR CHAMAN
+3311199,Kot Primary School,33,Farah,3311,PUR CHAMAN
+3311205,Taht Purchaman High School,33,Farah,3311,PUR CHAMAN
 3401001,Rodaabah High School,34,Nimroz,3401,PROVINCIAL CAPITAL OF NIMROZ (ZARANJ)
 3401002,Zaranj Primary School,34,Nimroz,3401,PROVINCIAL CAPITAL OF NIMROZ (ZARANJ)
 3401003,Agriculture Directorate,34,Nimroz,3401,PROVINCIAL CAPITAL OF NIMROZ (ZARANJ)
