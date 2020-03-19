@@ -1,0 +1,34 @@
+[
+  {
+    "id": "01",
+    "label": "Total votes cast"
+  },
+  {
+    "id": "02",
+    "label": "Turnout"
+  },
+  {
+    "id": "03",
+    "label": "Registration"
+  },
+  {
+    "id": "04",
+    "label": "Votes for winner"
+  },
+  {
+    "id": "05",
+    "label": "Women candidates"
+  },
+  {
+    "id": "06",
+    "label": "Closed/open centers"
+  },
+  {
+    "id": "07",
+    "label": "ECC complaints"
+  },
+  {
+    "id": "08",
+    "label": "Population"
+  }
+]
