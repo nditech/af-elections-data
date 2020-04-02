@@ -1,9 +1,8 @@
 {
   "chartConfig": {
-    "legendFactor": 1000,
-    "legendUnit": "k",
+    "legendUnit": "%",
     "legendTitle": "Registration Participation",
-    "domain": [0, 100000],
+    "domain": [0, 100],
     "range": [
       "#e0d9ce",
       "#bcbec7",

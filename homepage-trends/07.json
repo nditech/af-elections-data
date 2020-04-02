@@ -1,9 +1,7 @@
 {
   "chartConfig": {
-    "legendFactor": 1000,
-    "legendUnit": "k",
+    "legendUnit": "%",
     "legendTitle": "% Polling Centers Closed or not reporting",
-    "domain": [0, 100000],
     "range": [
       "#e0d9ce",
       "#bcbec7",

@@ -3,7 +3,6 @@
     "legendFactor": 1000,
     "legendUnit": "k",
     "legendTitle": "Number of votes",
-    "domain": [0, 100000],
     "range": [
       "#e0d9ce",
       "#bcbec7",

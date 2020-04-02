@@ -1,9 +1,7 @@
 {
   "chartConfig": {
-    "legendFactor": 1000,
-    "legendUnit": "k",
+    "legendUnit": "",
     "legendTitle": "ECC Complaints",
-    "domain": [0, 100000],
     "range": [
       "#e0d9ce",
       "#bcbec7",
