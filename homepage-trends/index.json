@@ -45,22 +45,26 @@
   },
   {
     "id": "04",
-    "label": "Votes for winner"
+    "label": "Registration participation"
   },
   {
     "id": "05",
-    "label": "Women candidates"
+    "label": "Votes for winner"
   },
   {
     "id": "06",
-    "label": "Closed/open centers"
+    "label": "Women candidates"
   },
   {
     "id": "07",
-    "label": "ECC complaints"
+    "label": "Closed/open centers"
   },
   {
     "id": "08",
+    "label": "ECC complaints"
+  },
+  {
+    "id": "09",
     "label": "Population"
   }
 ]
