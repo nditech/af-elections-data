@@ -3,9 +3,9 @@
     "legendFactor": 1000,
     "legendUnit": "k",
     "legendTitle": "Registered Voters",
+    "domain": [0, 1800000],
     "range": [
       "#e0d9ce",
-      "#bcbec7",
       "#99a3be",
       "#7689b1",
       "#5570a2",

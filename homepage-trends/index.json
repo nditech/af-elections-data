@@ -1,43 +1,11 @@
 [
   {
     "id": "01",
-    "label": "Total votes cast",
-    "file": "homepage-trends/sample.csv",
-    "chartConfig": {
-      "legendFactor": 1000,
-      "legendUnit": "k",
-      "legendTitle": "Number of votes",
-      "domain": [0, 100000],
-      "range": [
-        "#e0d9ce",
-        "#bcbec7",
-        "#99a3be",
-        "#7689b1",
-        "#5570a2",
-        "#34578f",
-        "#153f79",
-        "#00285d"
-      ]
-    }
+    "label": "Total votes cast"
   },
   {
     "id": "02",
-    "chartConfig": {
-      "legendFactor": 1000,
-      "legendUnit": "k",
-      "legendTitle": "Number of votes",
-      "domain": [0, 100000],
-      "range": [
-        "#e0d9ce",
-        "#bcbec7",
-        "#99a3be",
-        "#7689b1",
-        "#5570a2",
-        "#34578f",
-        "#153f79",
-        "#00285d"
-      ]
-    }    
+    "label": "Turnout"
   },
   {
     "id": "03",

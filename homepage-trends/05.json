@@ -1,6 +1,5 @@
 {
   "chartConfig": {
-    "legendFactor": 1000,
     "legendUnit": "%",
     "legendTitle": "Votes for Winner (%)",
     "domain": [0, 100],

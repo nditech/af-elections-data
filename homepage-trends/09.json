@@ -2,7 +2,7 @@
   "chartConfig": {
     "legendFactor": 1000,
     "legendUnit": "k",
-    "legendTitle": "Population",
+    "legendTitle": "Number of people",
     "range": [
       "#e0d9ce",
       "#bcbec7",

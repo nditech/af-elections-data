@@ -2,10 +2,8 @@
   "chartConfig": {
     "legendUnit": "%",
     "legendTitle": "Registration Participation",
-    "domain": [0, 100],
     "range": [
       "#e0d9ce",
-      "#bcbec7",
       "#99a3be",
       "#7689b1",
       "#5570a2",
