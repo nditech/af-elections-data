@@ -1,7 +1,7 @@
 [
   {
     "id": "01",
-    "label": "Total votes cast"
+    "label": "Total Votes Cast"
   },
   {
     "id": "02",
@@ -13,26 +13,14 @@
   },
   {
     "id": "04",
-    "label": "Registration participation"
+    "label": "Registration Participation"
   },
   {
     "id": "05",
-    "label": "Votes for winner"
+    "label": "Votes for Winner (Presidential)"
   },
   {
     "id": "06",
-    "label": "Women candidates"
-  },
-  {
-    "id": "07",
-    "label": "Closed centers"
-  },
-  {
-    "id": "08",
-    "label": "ECC complaints"
-  },
-  {
-    "id": "09",
-    "label": "Population"
+    "label": "Women Candidates (Wolesi Jirga)"
   }
 ]
