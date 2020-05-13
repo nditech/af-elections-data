@@ -2,7 +2,6 @@
   "chartConfig": {
     "legendUnit": "%",
     "legendTitle": "Turnout",
-    "domain": [0, 100],
     "range": [
       "#e0d9ce",
       "#bcbec7",

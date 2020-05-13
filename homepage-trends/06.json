@@ -2,7 +2,6 @@
   "chartConfig": {
     "legendUnit": "k",
     "legendTitle": "Women Candidates",    
-    "domain": [0, 120],    
     "range": [
       "#e0d9ce",
       "#bcbec7",
