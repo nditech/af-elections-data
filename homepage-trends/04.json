@@ -1,7 +1,7 @@
 {
   "chartConfig": {
     "legendUnit": "%",
-    "legendTitle": "Registration Participation",
+    "legendTitle": "Percentage of Population Registered",
     "range": [
       "#e0d9ce",
       "#99a3be",
