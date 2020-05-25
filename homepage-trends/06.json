@@ -1,6 +1,7 @@
 {
   "chartConfig": {
-    "legendTitle": "Women Candidates",    
+    "legendTitle": "Women Candidates", 
+    "domain": [0, 40],   
     "range": [
       "#e0d9ce",
       "#bcbec7",
