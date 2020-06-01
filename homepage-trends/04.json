@@ -3,6 +3,7 @@
     "legendUnit": "%",
     "legendTitle": "Percentage of Population Registered",
     "domain": [0, 100],
+    "legendText":"100% or more.",
     "range": [
       "#e0d9ce",
       "#99a3be",
