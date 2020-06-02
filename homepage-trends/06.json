@@ -2,6 +2,7 @@
   "chartConfig": {
     "legendTitle": "Women Candidates", 
     "domain": [0, 40],   
+    "legendText":"40 or more.",   
     "range": [
       "#e0d9ce",
       "#bcbec7",
