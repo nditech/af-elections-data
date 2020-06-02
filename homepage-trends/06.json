@@ -1,17 +1,16 @@
 {
   "chartConfig": {
-    "legendTitle": "Women Candidates", 
-    "domain": [0, 40],   
-    "legendText":"40 or more.",   
-    "range": [
-      "#e0d9ce",
-      "#bcbec7",
-      "#99a3be",
-      "#7689b1",
-      "#5570a2",
-      "#34578f",
-      "#153f79",
-      "#00285d"
+    "legendTitle": "Women Candidates",
+    "domain": [0, 40],
+    "ranges": [
+      { "color": "#e0d9ce" },
+      { "color": "#bcbec7" },
+      { "color": "#99a3be" },
+      { "color": "#7689b1" },
+      { "color": "#5570a2" },
+      { "color": "#34578f" },
+      { "color": "#153f79" },
+      { "color": "#00285d", "label": "35 or more." }
     ]
   },
   "data": [

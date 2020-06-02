@@ -3,14 +3,14 @@
     "legendFactor": 1000,
     "legendUnit": "k",
     "legendTitle": "Registered Voters",
-    "range": [
-      "#e0d9ce",
-      "#99a3be",
-      "#7689b1",
-      "#5570a2",
-      "#34578f",
-      "#153f79",
-      "#00285d"
+    "ranges": [
+      { "color": "#e0d9ce" },
+      { "color": "#99a3be" },
+      { "color": "#7689b1" },
+      { "color": "#5570a2" },
+      { "color": "#34578f" },
+      { "color": "#153f79" },
+      { "color": "#00285d" }
     ]
   },
   "data": [
